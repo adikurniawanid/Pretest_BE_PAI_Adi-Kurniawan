@@ -1,7 +1,7 @@
 "use strict";
 const crypto = require("crypto");
 const { User } = require("../models");
-const { generateJWT } = require("../helpers");
+const { generateJWT, hashPassword } = require("../helpers");
 
 module.exports = class UserController {
   static async register(req, res, next) {
@@ -12,15 +12,16 @@ module.exports = class UserController {
         publicId: crypto.randomUUID(),
         name,
         email,
-        password,
+        password: await hashPassword(password),
       });
 
       const token = await generateJWT(user.id, user.publicId, user.email);
 
       res.status(201).json({
-        message: {
-          en: "User created successfully",
-          id: "Pengguna berhasil dibuat",
+        message: "User created successfully",
+        data: {
+          publicId: user.publicId,
+          name: user.name,
         },
         token,
       });

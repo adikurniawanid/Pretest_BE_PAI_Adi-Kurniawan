@@ -1,7 +1,7 @@
 ("use strict");
 const crypto = require("crypto");
 const { Condition, Farm, Location } = require("../models");
-
+const axios = require("axios");
 module.exports = class FarmController {
   static async get(req, res, next) {
     try {
@@ -11,6 +11,10 @@ module.exports = class FarmController {
         include: [{ model: Location }, { model: Condition }],
         where: { userId: req.user.id, publicId },
       });
+
+      const weather = await axios.get(
+        `https://ibnux.github.io/BMKG-importer/cuaca/${farm.Location.id}.json`
+      );
 
       if (!farm) {
         return res.status(404).json({
@@ -29,6 +33,7 @@ module.exports = class FarmController {
           lat: farm.Location.lat,
           lon: farm.Location.lon,
         },
+        weather: weather.data,
         condition: farm.Condition.name,
         createdAt: farm.createdAt,
         updatedAt: farm.updatedAt,

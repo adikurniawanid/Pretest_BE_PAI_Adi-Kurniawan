@@ -21,4 +21,36 @@ module.exports = class FarmController {
       next(error);
     }
   }
+
+  static async update(req, res, next) {
+    try {
+      const { plant, amount, locationId, conditionId } = req.body;
+      const { id } = req.params;
+
+      const farm = await Farm.findOne({
+        where: {
+          id,
+          userId: req.user.id,
+        },
+      });
+
+      if (!farm) {
+        throw {
+          status: 404,
+          message: "Farm Not Found",
+        };
+      }
+
+      await Farm.update(
+        { plant, amount, locationId, conditionId },
+        { where: { id, userId: req.user.id } }
+      );
+
+      res.status(200).json({
+        message: "Farm updated successfully",
+      });
+    } catch (error) {
+      next(error);
+    }
+  }
 };

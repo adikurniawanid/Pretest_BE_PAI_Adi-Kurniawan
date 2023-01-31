@@ -48,6 +48,45 @@ const createFarmValidationRules = () => {
   ];
 };
 
+const updateFarmValidationRules = () => {
+  return [
+    body("amount").optional().isNumeric().withMessage("amount must be numeric"),
+    body("locationId")
+      .optional()
+      .isNumeric()
+      .withMessage("location id must be numeric")
+      .bail()
+      .custom(async (locationId) => {
+        if (
+          !(await Location.findOne({
+            where: {
+              id: locationId,
+            },
+          }))
+        ) {
+          return Promise.reject("Location not valid");
+        }
+      }),
+    body("conditionId")
+      .optional()
+      .isNumeric()
+      .withMessage("condition id must be numeric")
+      .bail()
+      .custom(async (conditionId) => {
+        if (
+          !(await Condition.findOne({
+            where: {
+              id: conditionId,
+            },
+          }))
+        ) {
+          return Promise.reject("Condition not valid");
+        }
+      }),
+  ];
+};
+
 module.exports = {
   createFarmValidationRules,
+  updateFarmValidationRules,
 };

@@ -18,6 +18,18 @@ const loginValidationRules = () => {
   ];
 };
 
+const refreshTokenValidationRules = () => {
+  return [
+    body("refreshToken")
+      .notEmpty()
+      .bail()
+      .withMessage("Refresh token is required")
+      .isJWT()
+      .withMessage("Refresh token not jwt format"),
+  ];
+};
+
 module.exports = {
   loginValidationRules,
+  refreshTokenValidationRules,
 };

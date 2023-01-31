@@ -1,0 +1,4738 @@
+[
+  {
+    "id": "501397",
+    "province": "Aceh",
+    "city": "city Banda Aceh",
+    "district": "Banda Aceh",
+    "lat": "5.544910",
+    "lon": "95.343120"
+  },
+  {
+    "id": "501398",
+    "province": "Aceh",
+    "city": "Kab. Bireuen",
+    "district": "Bireun",
+    "lat": "5.230000",
+    "lon": "96.720000"
+  },
+  {
+    "id": "501399",
+    "province": "Aceh",
+    "city": "Kab. Gayo Lues",
+    "district": "Gayo Lues",
+    "lat": "3.977980",
+    "lon": "97.322960"
+  },
+  {
+    "id": "501400",
+    "province": "Aceh",
+    "city": "Kab. Aceh Barat Daya",
+    "district": "Aceh Barat Daya",
+    "lat": "3.740000",
+    "lon": "96.860000"
+  },
+  {
+    "id": "501401",
+    "province": "Aceh",
+    "city": "Kab. Aceh Jaya",
+    "district": "Aceh Jaya",
+    "lat": "4.616667",
+    "lon": "95.616700"
+  },
+  {
+    "id": "501402",
+    "province": "Aceh",
+    "city": "Kab. Aceh Timur",
+    "district": "Aceh Timur",
+    "lat": "4.940461",
+    "lon": "97.756348"
+  },
+  {
+    "id": "501403",
+    "province": "Aceh",
+    "city": "Kab. Aceh Tamiang",
+    "district": "Aceh Tamiang",
+    "lat": "4.284788",
+    "lon": "98.065338"
+  },
+  {
+    "id": "501404",
+    "province": "Aceh",
+    "city": "Kab. Aceh Besar",
+    "district": "Aceh Besar",
+    "lat": "5.298143",
+    "lon": "95.596848"
+  },
+  {
+    "id": "501405",
+    "province": "Aceh",
+    "city": "Kab. Aceh Tenggara",
+    "district": "Aceh Tenggara",
+    "lat": "3.507938",
+    "lon": "97.800293"
+  },
+  {
+    "id": "501406",
+    "province": "Aceh",
+    "city": "city Langsa",
+    "district": "Langsa",
+    "lat": "4.484390",
+    "lon": "97.921430"
+  },
+  {
+    "id": "501407",
+    "province": "Aceh",
+    "city": "city Lhokseumawe",
+    "district": "Lhokseumawe",
+    "lat": "5.180000",
+    "lon": "97.120000"
+  },
+  {
+    "id": "501408",
+    "province": "Aceh",
+    "city": "Kab. Aceh Utara",
+    "district": "Aceh Utara",
+    "lat": "5.026651",
+    "lon": "97.318268"
+  },
+  {
+    "id": "501409",
+    "province": "Aceh",
+    "city": "Kab. Aceh Barat",
+    "district": "Aceh Barat",
+    "lat": "4.176594",
+    "lon": "96.124878"
+  },
+  {
+    "id": "501410",
+    "province": "Aceh",
+    "city": "city Sabang",
+    "district": "Sabang",
+    "lat": "5.838860",
+    "lon": "95.295350"
+  },
+  {
+    "id": "501411",
+    "province": "Aceh",
+    "city": "Kab. Pidie",
+    "district": "Pidie",
+    "lat": "5.377449",
+    "lon": "95.958023"
+  },
+  {
+    "id": "501412",
+    "province": "Aceh",
+    "city": "Kab. Bener Meriah",
+    "district": "Bener Meriah",
+    "lat": "4.769270",
+    "lon": "96.990150"
+  },
+  {
+    "id": "501413",
+    "province": "Aceh",
+    "city": "Kab. Simeulue",
+    "district": "Simeulue",
+    "lat": "2.493920",
+    "lon": "96.184410"
+  },
+  {
+    "id": "501414",
+    "province": "Aceh",
+    "city": "Kab. Aceh Singkil",
+    "district": "Aceh Singkil",
+    "lat": "2.310000",
+    "lon": "97.850000"
+  },
+  {
+    "id": "501415",
+    "province": "Aceh",
+    "city": "Kab. Nagan Raya",
+    "district": "Nagan Raya",
+    "lat": "4.017699",
+    "lon": "96.344604"
+  },
+  {
+    "id": "501416",
+    "province": "Aceh",
+    "city": "Kab. Aceh Tengah",
+    "district": "Aceh Tengah",
+    "lat": "4.566930",
+    "lon": "96.814660"
+  },
+  {
+    "id": "501417",
+    "province": "Aceh",
+    "city": "Kab. Aceh Selatan",
+    "district": "Aceh Selatan",
+    "lat": "3.280000",
+    "lon": "97.220000"
+  },
+  {
+    "id": "501605",
+    "province": "Aceh",
+    "city": "Kab. Pidie Jaya",
+    "district": "Pidie Jaya",
+    "lat": "5.250281",
+    "lon": "96.174316"
+  },
+  {
+    "id": "501606",
+    "province": "Aceh",
+    "city": "city Subulussalam",
+    "district": "Subulussalam",
+    "lat": "2.645300",
+    "lon": "98.026110"
+  },
+  {
+    "id": "501162",
+    "province": "Bali",
+    "city": "Kab. Karangasem",
+    "district": "Amplapura",
+    "lat": "-8.420000",
+    "lon": "115.610000"
+  },
+  {
+    "id": "501163",
+    "province": "Bali",
+    "city": "Kab. Bangli",
+    "district": "Bangli",
+    "lat": "-8.430000",
+    "lon": "115.350000"
+  },
+  {
+    "id": "501164",
+    "province": "Bali",
+    "city": "city Denpasar",
+    "district": "Denpasar",
+    "lat": "-8.643480",
+    "lon": "115.224609"
+  },
+  {
+    "id": "501165",
+    "province": "Bali",
+    "city": "Kab. Gianyar",
+    "district": "Gianyar",
+    "lat": "-8.540000",
+    "lon": "115.330000"
+  },
+  {
+    "id": "501166",
+    "province": "Bali",
+    "city": "Kab. Badung",
+    "district": "Mengwi",
+    "lat": "-8.530000",
+    "lon": "115.200000"
+  },
+  {
+    "id": "501167",
+    "province": "Bali",
+    "city": "Kab. Jembrana",
+    "district": "Negara",
+    "lat": "-8.300000",
+    "lon": "114.666667"
+  },
+  {
+    "id": "501168",
+    "province": "Bali",
+    "city": "Kab. Klungkung",
+    "district": "Semarapura",
+    "lat": "-8.540000",
+    "lon": "115.390000"
+  },
+  {
+    "id": "501169",
+    "province": "Bali",
+    "city": "Kab. Buleleng",
+    "district": "Singaraja",
+    "lat": "-8.116334",
+    "lon": "115.085907"
+  },
+  {
+    "id": "501170",
+    "province": "Bali",
+    "city": "Kab. Tabanan",
+    "district": "Tabanan",
+    "lat": "-8.536890",
+    "lon": "115.123667"
+  },
+  {
+    "id": "501362",
+    "province": "BangkaBelitung",
+    "city": "Kab. Bangka Tengah",
+    "district": "Koba",
+    "lat": "-2.498970",
+    "lon": "106.313480"
+  },
+  {
+    "id": "501363",
+    "province": "BangkaBelitung",
+    "city": "Kab. Belitung Timur",
+    "district": "Manggar",
+    "lat": "-2.936180",
+    "lon": "108.028820"
+  },
+  {
+    "id": "501364",
+    "province": "BangkaBelitung",
+    "city": "Kab. Bangka Barat",
+    "district": "Mentok",
+    "lat": "-2.064982",
+    "lon": "105.165253"
+  },
+  {
+    "id": "501365",
+    "province": "BangkaBelitung",
+    "city": "city Pangkalpinang",
+    "district": "Pangkal Pinang",
+    "lat": "-2.192160",
+    "lon": "106.128060"
+  },
+  {
+    "id": "501366",
+    "province": "BangkaBelitung",
+    "city": "Kab. Bangka",
+    "district": "Sungai Liat",
+    "lat": "-1.934810",
+    "lon": "105.951550"
+  },
+  {
+    "id": "501367",
+    "province": "BangkaBelitung",
+    "city": "Kab. Belitung",
+    "district": "Tanjung Pandan",
+    "lat": "-2.899940",
+    "lon": "107.564750"
+  },
+  {
+    "id": "501368",
+    "province": "BangkaBelitung",
+    "city": "Kab. Bangka Selatan",
+    "district": "Toboali",
+    "lat": "-2.792210",
+    "lon": "106.495280"
+  },
+  {
+    "id": "1200018",
+    "province": "BangkaBelitung",
+    "city": "Blinyu",
+    "district": "Pelabuhan Belinyu",
+    "lat": "-1.448668",
+    "lon": "105.654144"
+  },
+  {
+    "id": "5002247",
+    "province": "BangkaBelitung",
+    "city": "Kab. Bangka Barat",
+    "district": "Jebus",
+    "lat": "-1.765086",
+    "lon": "105.465317"
+  },
+  {
+    "id": "5002248",
+    "province": "BangkaBelitung",
+    "city": "Kab. Bangka Tengah",
+    "district": "Sungai Selan",
+    "lat": "-2.399811",
+    "lon": "105.854645"
+  },
+  {
+    "id": "5002249",
+    "province": "BangkaBelitung",
+    "city": "Kab. Belitung",
+    "district": "Selat Nasik",
+    "lat": "-2.838632",
+    "lon": "107.421484"
+  },
+  {
+    "id": "0",
+    "province": "Banten",
+    "city": "a:0:{}",
+    "district": "a:0:{}",
+    "lat": "0.000000",
+    "lon": "0.000000"
+  },
+  {
+    "id": "501171",
+    "province": "Banten",
+    "city": "city Cilegon",
+    "district": "Cilegon",
+    "lat": "-6.022775",
+    "lon": "106.052742"
+  },
+  {
+    "id": "501172",
+    "province": "Banten",
+    "city": "Kab. Pandeglang",
+    "district": "Pandeglang",
+    "lat": "-6.303889",
+    "lon": "106.090000"
+  },
+  {
+    "id": "501173",
+    "province": "Banten",
+    "city": "Kab. Lebak",
+    "district": "Rangkas Bitung",
+    "lat": "-6.355904",
+    "lon": "106.248779"
+  },
+  {
+    "id": "501174",
+    "province": "Banten",
+    "city": "Kab. Serang",
+    "district": "Serang",
+    "lat": "-6.133333",
+    "lon": "106.166700"
+  },
+  {
+    "id": "501176",
+    "province": "Banten",
+    "city": "Kab. Tangerang",
+    "district": "Tigaraksa",
+    "lat": "-6.274860",
+    "lon": "106.480179"
+  },
+  {
+    "id": "501597",
+    "province": "Banten",
+    "city": "city Serang",
+    "district": "Ciruas",
+    "lat": "-6.112556",
+    "lon": "106.224722"
+  },
+  {
+    "id": "1100084",
+    "province": "Banten",
+    "city": "Merak",
+    "district": "Pelabuhan Merak",
+    "lat": "-5.904287",
+    "lon": "105.897217"
+  },
+  {
+    "id": "5002201",
+    "province": "Banten",
+    "city": "city Cilegon",
+    "district": "Merak",
+    "lat": "-5.933399",
+    "lon": "106.001158"
+  },
+  {
+    "id": "5002203",
+    "province": "Banten",
+    "city": "Kab. Pandeglang",
+    "district": "Labuan",
+    "lat": "-6.393138",
+    "lon": "105.829496"
+  },
+  {
+    "id": "5002204",
+    "province": "Banten",
+    "city": "Kab. Pandeglang",
+    "district": "Ujung Kulon",
+    "lat": "-6.762125",
+    "lon": "105.338287"
+  },
+  {
+    "id": "5002205",
+    "province": "Banten",
+    "city": "Kab. Lebak",
+    "district": "Gunung kencana",
+    "lat": "-6.585489",
+    "lon": "106.078663"
+  },
+  {
+    "id": "5002206",
+    "province": "Banten",
+    "city": "Kab. Lebak",
+    "district": "Malingping",
+    "lat": "-6.774739",
+    "lon": "105.951462"
+  },
+  {
+    "id": "5002207",
+    "province": "Banten",
+    "city": "Kab. Lebak",
+    "district": "Lebak",
+    "lat": "-6.526141",
+    "lon": "106.197281"
+  },
+  {
+    "id": "5002208",
+    "province": "Banten",
+    "city": "Kab. Serang",
+    "district": "Bojonegara",
+    "lat": "-5.979753",
+    "lon": "106.092739"
+  },
+  {
+    "id": "5002209",
+    "province": "Banten",
+    "city": "Kab. Pandeglang",
+    "district": "Carita",
+    "lat": "-6.315128",
+    "lon": "105.843487"
+  },
+  {
+    "id": "5002244",
+    "province": "Banten",
+    "city": "Kab. Lebak",
+    "district": "Binuangen",
+    "lat": "-6.837508",
+    "lon": "105.889063"
+  },
+  {
+    "id": "5002333",
+    "province": "Banten",
+    "city": "city Tangerang",
+    "district": "Tangerang",
+    "lat": "-6.175457",
+    "lon": "106.636047"
+  },
+  {
+    "id": "5002334",
+    "province": "Banten",
+    "city": "city Tangerang Selatan",
+    "district": "Serpong",
+    "lat": "-6.319905",
+    "lon": "106.664286"
+  },
+  {
+    "id": "5008798",
+    "province": "Banten",
+    "city": "Kab. Lebak",
+    "district": "Bayah",
+    "lat": "-6.933000",
+    "lon": "106.244000"
+  },
+  {
+    "id": "5008861",
+    "province": "Banten",
+    "city": "city Serang",
+    "district": "Anyer",
+    "lat": "-6.094000",
+    "lon": "105.887000"
+  },
+  {
+    "id": "501177",
+    "province": "Bengkulu",
+    "city": "Kab. Bengkulu Utara",
+    "district": "Bengkulu Utara",
+    "lat": "-3.441667",
+    "lon": "102.195722"
+  },
+  {
+    "id": "501178",
+    "province": "Bengkulu",
+    "city": "city Bengkulu",
+    "district": "Bengkulu",
+    "lat": "-3.794373",
+    "lon": "102.304688"
+  },
+  {
+    "id": "501179",
+    "province": "Bengkulu",
+    "city": "Kab. Kaur",
+    "district": "Kaur",
+    "lat": "-4.732464",
+    "lon": "103.397827"
+  },
+  {
+    "id": "501180",
+    "province": "Bengkulu",
+    "city": "Kab. Rejang Lebong",
+    "district": "Rejang Lebong",
+    "lat": "-3.439400",
+    "lon": "102.521667"
+  },
+  {
+    "id": "501181",
+    "province": "Bengkulu",
+    "city": "Kab. Kepahiang",
+    "district": "Kepahiang",
+    "lat": "-3.621701",
+    "lon": "102.569733"
+  },
+  {
+    "id": "501182",
+    "province": "Bengkulu",
+    "city": "Kab. Bengkulu Selatan",
+    "district": "Bengkulu Selatan",
+    "lat": "-4.398444",
+    "lon": "102.985840"
+  },
+  {
+    "id": "501183",
+    "province": "Bengkulu",
+    "city": "Kab. Muko Muko",
+    "district": "Mukomuko",
+    "lat": "-2.500000",
+    "lon": "101.166700"
+  },
+  {
+    "id": "501184",
+    "province": "Bengkulu",
+    "city": "Kab. Seluma",
+    "district": "Seluma",
+    "lat": "-4.088932",
+    "lon": "102.612305"
+  },
+  {
+    "id": "501185",
+    "province": "Bengkulu",
+    "city": "Kab. Lebong",
+    "district": "Lebong",
+    "lat": "-3.051770",
+    "lon": "102.219060"
+  },
+  {
+    "id": "5002220",
+    "province": "Bengkulu",
+    "city": "Kab. Bengkulu Tengah",
+    "district": "Bengkulu Tengah",
+    "lat": "-3.738190",
+    "lon": "102.458496"
+  },
+  {
+    "id": "501186",
+    "province": "DIYogyakarta",
+    "city": "Kab. Bantul",
+    "district": "Bantul",
+    "lat": "-7.916667",
+    "lon": "110.316700"
+  },
+  {
+    "id": "501187",
+    "province": "DIYogyakarta",
+    "city": "Kab. Sleman",
+    "district": "Sleman",
+    "lat": "-7.720000",
+    "lon": "110.380000"
+  },
+  {
+    "id": "501188",
+    "province": "DIYogyakarta",
+    "city": "Kab. Kulon Progo",
+    "district": "Wates",
+    "lat": "-7.850000",
+    "lon": "110.150000"
+  },
+  {
+    "id": "501189",
+    "province": "DIYogyakarta",
+    "city": "Kab. Gunung Kidul",
+    "district": "Wonosari",
+    "lat": "-7.966667",
+    "lon": "110.600000"
+  },
+  {
+    "id": "501190",
+    "province": "DIYogyakarta",
+    "city": "city Yogyakarta",
+    "district": "Yogyakarta",
+    "lat": "-7.802790",
+    "lon": "110.376250"
+  },
+  {
+    "id": "501191",
+    "province": "DKIJakarta",
+    "city": "city Jakarta Timur",
+    "district": "Jakarta Timur",
+    "lat": "-6.213599",
+    "lon": "106.901093"
+  },
+  {
+    "id": "501192",
+    "province": "DKIJakarta",
+    "city": "city Jakarta Barat",
+    "district": "Jakarta Barat",
+    "lat": "-6.203019",
+    "lon": "106.731319"
+  },
+  {
+    "id": "501193",
+    "province": "DKIJakarta",
+    "city": "city Jakarta Selatan",
+    "district": "Jakarta Selatan",
+    "lat": "-6.293118",
+    "lon": "106.856804"
+  },
+  {
+    "id": "501194",
+    "province": "DKIJakarta",
+    "city": "Kab. Kepulauan Seribu",
+    "district": "Kepulauan Seribu",
+    "lat": "-5.987607",
+    "lon": "106.825562"
+  },
+  {
+    "id": "501195",
+    "province": "DKIJakarta",
+    "city": "city Jakarta Pusat",
+    "district": "Jakarta Pusat",
+    "lat": "-6.176396",
+    "lon": "106.826591"
+  },
+  {
+    "id": "501196",
+    "province": "DKIJakarta",
+    "city": "city Jakarta Utara",
+    "district": "Jakarta Utara",
+    "lat": "-6.126218",
+    "lon": "106.865559"
+  },
+  {
+    "id": "501197",
+    "province": "Gorontalo",
+    "city": "city Gorontalo",
+    "district": "Gorontalo",
+    "lat": "0.531750",
+    "lon": "123.088070"
+  },
+  {
+    "id": "501198",
+    "province": "Gorontalo",
+    "city": "Kab. Gorontalo",
+    "district": "Limboto",
+    "lat": "0.640000",
+    "lon": "122.990000"
+  },
+  {
+    "id": "501199",
+    "province": "Gorontalo",
+    "city": "Kab. Pahuwato",
+    "district": "Marisa",
+    "lat": "0.480000",
+    "lon": "121.930000"
+  },
+  {
+    "id": "501200",
+    "province": "Gorontalo",
+    "city": "Kab. Bone Bolango",
+    "district": "Suwawa",
+    "lat": "0.527336",
+    "lon": "123.202057"
+  },
+  {
+    "id": "501201",
+    "province": "Gorontalo",
+    "city": "Kab. Boalemo",
+    "district": "Tilamuta",
+    "lat": "0.533333",
+    "lon": "122.383300"
+  },
+  {
+    "id": "501598",
+    "province": "Gorontalo",
+    "city": "Kab. Gorontalo Utara",
+    "district": "Kwandang",
+    "lat": "0.799916",
+    "lon": "122.875214"
+  },
+  {
+    "id": "1200027",
+    "province": "Gorontalo",
+    "city": "Gorontalo",
+    "district": "Pelabuhan Gorontalo",
+    "lat": "0.432583",
+    "lon": "123.049622"
+  },
+  {
+    "id": "501202",
+    "province": "Jambi",
+    "city": "Kab. Merangin",
+    "district": "Bangko",
+    "lat": "-2.083333",
+    "lon": "102.150000"
+  },
+  {
+    "id": "501203",
+    "province": "Jambi",
+    "city": "Kab. Batanghari",
+    "district": "Bulian",
+    "lat": "-1.720500",
+    "lon": "103.246806"
+  },
+  {
+    "id": "501204",
+    "province": "Jambi",
+    "city": "Kab. Bungo",
+    "district": "Bungo",
+    "lat": "-1.509430",
+    "lon": "101.958470"
+  },
+  {
+    "id": "501205",
+    "province": "Jambi",
+    "city": "city Jambi",
+    "district": "Jambi",
+    "lat": "-1.610000",
+    "lon": "103.590000"
+  },
+  {
+    "id": "501206",
+    "province": "Jambi",
+    "city": "city Sungai Penuh",
+    "district": "Sungai Penuh",
+    "lat": "-2.035819",
+    "lon": "101.445694"
+  },
+  {
+    "id": "501207",
+    "province": "Jambi",
+    "city": "Kab. Tanjung Jabung Barat",
+    "district": "Kuala Tungkal",
+    "lat": "-0.820000",
+    "lon": "103.490000"
+  },
+  {
+    "id": "501208",
+    "province": "Jambi",
+    "city": "Kab. Tanjung Jabung Timur",
+    "district": "Sabak",
+    "lat": "-1.070000",
+    "lon": "103.850000"
+  },
+  {
+    "id": "501209",
+    "province": "Jambi",
+    "city": "Kab. Sarolangun",
+    "district": "Sarolangun",
+    "lat": "-2.330090",
+    "lon": "102.649340"
+  },
+  {
+    "id": "501210",
+    "province": "Jambi",
+    "city": "Kab. Muaro Jambi",
+    "district": "Sakernan",
+    "lat": "-1.480000",
+    "lon": "103.530000"
+  },
+  {
+    "id": "501211",
+    "province": "Jambi",
+    "city": "Kab. Tebo",
+    "district": "Tebo",
+    "lat": "-1.393860",
+    "lon": "102.316600"
+  },
+  {
+    "id": "5002260",
+    "province": "Jambi",
+    "city": "Kab. Kerinci",
+    "district": "Siluak",
+    "lat": "-1.993616",
+    "lon": "101.288452"
+  },
+  {
+    "id": "501212",
+    "province": "JawaBarat",
+    "city": "city Bandung",
+    "district": "Bandung",
+    "lat": "-6.909920",
+    "lon": "107.646910"
+  },
+  {
+    "id": "501213",
+    "province": "JawaBarat",
+    "city": "city Banjar",
+    "district": "Banjar",
+    "lat": "-7.369960",
+    "lon": "108.559010"
+  },
+  {
+    "id": "501216",
+    "province": "JawaBarat",
+    "city": "Kab. Ciamis",
+    "district": "Ciamis",
+    "lat": "-7.360000",
+    "lon": "108.480000"
+  },
+  {
+    "id": "501217",
+    "province": "JawaBarat",
+    "city": "Kab. Cianjur",
+    "district": "Cianjur",
+    "lat": "-6.816667",
+    "lon": "107.133300"
+  },
+  {
+    "id": "501218",
+    "province": "JawaBarat",
+    "city": "Kab. Bogor",
+    "district": "Cibinong",
+    "lat": "-6.494077",
+    "lon": "106.830711"
+  },
+  {
+    "id": "501219",
+    "province": "JawaBarat",
+    "city": "Kab. Bekasi",
+    "district": "Cikarang",
+    "lat": "-6.255237",
+    "lon": "107.149658"
+  },
+  {
+    "id": "501220",
+    "province": "JawaBarat",
+    "city": "city Cimahi",
+    "district": "Cimahi",
+    "lat": "-6.881910",
+    "lon": "107.548610"
+  },
+  {
+    "id": "501221",
+    "province": "JawaBarat",
+    "city": "city Cirebon",
+    "district": "Cirebon",
+    "lat": "-6.720000",
+    "lon": "108.575520"
+  },
+  {
+    "id": "501222",
+    "province": "JawaBarat",
+    "city": "Kab. Sukabumi",
+    "district": "Sukabumi",
+    "lat": "-6.930517",
+    "lon": "106.921005"
+  },
+  {
+    "id": "501224",
+    "province": "JawaBarat",
+    "city": "Kab. Garut",
+    "district": "Garut",
+    "lat": "-7.233333",
+    "lon": "107.883300"
+  },
+  {
+    "id": "501225",
+    "province": "JawaBarat",
+    "city": "Kab. Indramayu",
+    "district": "Indramayu",
+    "lat": "-6.333333",
+    "lon": "108.316700"
+  },
+  {
+    "id": "501226",
+    "province": "JawaBarat",
+    "city": "Kab. Karawang",
+    "district": "Karawang",
+    "lat": "-6.309156",
+    "lon": "107.306213"
+  },
+  {
+    "id": "501227",
+    "province": "JawaBarat",
+    "city": "Kab. Kuningan",
+    "district": "Kuningan",
+    "lat": "-6.983333",
+    "lon": "108.483300"
+  },
+  {
+    "id": "501228",
+    "province": "JawaBarat",
+    "city": "Kab. Majalengka",
+    "district": "Majalengka",
+    "lat": "-6.817470",
+    "lon": "108.227750"
+  },
+  {
+    "id": "501229",
+    "province": "JawaBarat",
+    "city": "Kab. Sukabumi",
+    "district": "Pelabuhan Ratu",
+    "lat": "-6.985000",
+    "lon": "106.550000"
+  },
+  {
+    "id": "501230",
+    "province": "JawaBarat",
+    "city": "Kab. Purwakarta",
+    "district": "Purwakarta",
+    "lat": "-6.565025",
+    "lon": "107.439423"
+  },
+  {
+    "id": "501231",
+    "province": "JawaBarat",
+    "city": "Kab. Tasikmalaya",
+    "district": "Singaparna",
+    "lat": "-7.348833",
+    "lon": "108.121944"
+  },
+  {
+    "id": "501232",
+    "province": "JawaBarat",
+    "city": "Kab. Bandung",
+    "district": "Soreang",
+    "lat": "-7.025935",
+    "lon": "107.524567"
+  },
+  {
+    "id": "501233",
+    "province": "JawaBarat",
+    "city": "Kab. Subang",
+    "district": "Subang",
+    "lat": "-6.566389",
+    "lon": "107.760773"
+  },
+  {
+    "id": "501234",
+    "province": "JawaBarat",
+    "city": "Kab. Cirebon",
+    "district": "Sumber",
+    "lat": "-6.750210",
+    "lon": "108.552590"
+  },
+  {
+    "id": "501235",
+    "province": "JawaBarat",
+    "city": "Kab. Sumedang",
+    "district": "Sumedang",
+    "lat": "-6.850078",
+    "lon": "107.926941"
+  },
+  {
+    "id": "501236",
+    "province": "JawaBarat",
+    "city": "city Tasikmalaya",
+    "district": "Tasikmalaya",
+    "lat": "-7.360210",
+    "lon": "108.217630"
+  },
+  {
+    "id": "501599",
+    "province": "JawaBarat",
+    "city": "Kab. Bandung Barat",
+    "district": "Lembang",
+    "lat": "-6.816671",
+    "lon": "107.633057"
+  },
+  {
+    "id": "1100117",
+    "province": "JawaBarat",
+    "city": "Pelabuhan Ratu",
+    "district": "Pelabuhan Ratu",
+    "lat": "-6.981533",
+    "lon": "106.540500"
+  },
+  {
+    "id": "5002227",
+    "province": "JawaBarat",
+    "city": "city Bogor",
+    "district": "city Bogor",
+    "lat": "-6.598449",
+    "lon": "106.797409"
+  },
+  {
+    "id": "5002228",
+    "province": "JawaBarat",
+    "city": "city Bekasi",
+    "district": "Bekasi",
+    "lat": "-6.234760",
+    "lon": "106.994476"
+  },
+  {
+    "id": "5002229",
+    "province": "JawaBarat",
+    "city": "city Depok",
+    "district": "Depok",
+    "lat": "-6.408107",
+    "lon": "106.814575"
+  },
+  {
+    "id": "5002252",
+    "province": "JawaBarat",
+    "city": "Kab. Pangandaran",
+    "district": "Parigi",
+    "lat": "-7.684454",
+    "lon": "108.538742"
+  },
+  {
+    "id": "5002286",
+    "province": "JawaBarat",
+    "city": "Kab. Bogor",
+    "district": "Cisarua",
+    "lat": "-6.690523",
+    "lon": "106.931305"
+  },
+  {
+    "id": "5002287",
+    "province": "JawaBarat",
+    "city": "Kab. Cianjur",
+    "district": "Cipanas",
+    "lat": "-6.710300",
+    "lon": "107.200470"
+  },
+  {
+    "id": "5002288",
+    "province": "JawaBarat",
+    "city": "Gadog Puncak",
+    "district": "Gadog",
+    "lat": "-6.656764",
+    "lon": "106.863670"
+  },
+  {
+    "id": "501237",
+    "province": "JawaTengah",
+    "city": "Kab. Banjarnegara",
+    "district": "Banjarnegara",
+    "lat": "-7.352840",
+    "lon": "109.639060"
+  },
+  {
+    "id": "501238",
+    "province": "JawaTengah",
+    "city": "Kab. Batang",
+    "district": "Batang",
+    "lat": "-6.925064",
+    "lon": "109.832382"
+  },
+  {
+    "id": "501239",
+    "province": "JawaTengah",
+    "city": "Kab. Blora",
+    "district": "Blora",
+    "lat": "-6.950000",
+    "lon": "111.416700"
+  },
+  {
+    "id": "501240",
+    "province": "JawaTengah",
+    "city": "Kab. Boyolali",
+    "district": "Boyolali",
+    "lat": "-7.533333",
+    "lon": "110.583300"
+  },
+  {
+    "id": "501241",
+    "province": "JawaTengah",
+    "city": "Kab. Brebes",
+    "district": "Brebes",
+    "lat": "-6.866667",
+    "lon": "109.050000"
+  },
+  {
+    "id": "501242",
+    "province": "JawaTengah",
+    "city": "Kab. Cilacap",
+    "district": "Cilacap",
+    "lat": "-7.716667",
+    "lon": "109.000001"
+  },
+  {
+    "id": "501243",
+    "province": "JawaTengah",
+    "city": "Kab. Demak",
+    "district": "Demak",
+    "lat": "-6.883333",
+    "lon": "110.633300"
+  },
+  {
+    "id": "501244",
+    "province": "JawaTengah",
+    "city": "Kab. Jepara",
+    "district": "Jepara",
+    "lat": "-6.630000",
+    "lon": "110.660000"
+  },
+  {
+    "id": "501245",
+    "province": "JawaTengah",
+    "city": "Kab. Pekalongan",
+    "district": "Kajen",
+    "lat": "-7.040790",
+    "lon": "109.657070"
+  },
+  {
+    "id": "501246",
+    "province": "JawaTengah",
+    "city": "Kab. Karanganyar",
+    "district": "Karanganyar",
+    "lat": "-7.613150",
+    "lon": "110.962200"
+  },
+  {
+    "id": "501247",
+    "province": "JawaTengah",
+    "city": "Kab. Kebumen",
+    "district": "Kebumen",
+    "lat": "-7.700000",
+    "lon": "109.666700"
+  },
+  {
+    "id": "501248",
+    "province": "JawaTengah",
+    "city": "Kab. Kendal",
+    "district": "Kendal",
+    "lat": "-6.948239",
+    "lon": "110.137939"
+  },
+  {
+    "id": "501249",
+    "province": "JawaTengah",
+    "city": "Kab. Klaten",
+    "district": "Klaten",
+    "lat": "-7.706229",
+    "lon": "110.604172"
+  },
+  {
+    "id": "501250",
+    "province": "JawaTengah",
+    "city": "Kab. Kudus",
+    "district": "Kudus",
+    "lat": "-6.798160",
+    "lon": "110.870360"
+  },
+  {
+    "id": "501251",
+    "province": "JawaTengah",
+    "city": "city Magelang",
+    "district": "Magelang",
+    "lat": "-7.460000",
+    "lon": "110.220000"
+  },
+  {
+    "id": "501252",
+    "province": "JawaTengah",
+    "city": "Kab. Magelang",
+    "district": "Mungkid",
+    "lat": "-7.619803",
+    "lon": "110.233383"
+  },
+  {
+    "id": "501253",
+    "province": "JawaTengah",
+    "city": "Kab. Pati",
+    "district": "Pati",
+    "lat": "-6.707430",
+    "lon": "111.033850"
+  },
+  {
+    "id": "501254",
+    "province": "JawaTengah",
+    "city": "city Pekalongan",
+    "district": "Pekalongan",
+    "lat": "-6.900840",
+    "lon": "109.688790"
+  },
+  {
+    "id": "501255",
+    "province": "JawaTengah",
+    "city": "Kab. Pemalang",
+    "district": "Pemalang",
+    "lat": "-7.009810",
+    "lon": "109.391880"
+  },
+  {
+    "id": "501256",
+    "province": "JawaTengah",
+    "city": "Kab. Purbalingga",
+    "district": "Purbalingga",
+    "lat": "-7.327670",
+    "lon": "109.408840"
+  },
+  {
+    "id": "501257",
+    "province": "JawaTengah",
+    "city": "Kab. Grobogan",
+    "district": "Purwodadi",
+    "lat": "-7.106930",
+    "lon": "110.894430"
+  },
+  {
+    "id": "501258",
+    "province": "JawaTengah",
+    "city": "Kab. Banyumas",
+    "district": "Purwokerto",
+    "lat": "-7.416667",
+    "lon": "109.233300"
+  },
+  {
+    "id": "501259",
+    "province": "JawaTengah",
+    "city": "Kab. Purworejo",
+    "district": "Purworejo",
+    "lat": "-7.720000",
+    "lon": "110.030000"
+  },
+  {
+    "id": "501260",
+    "province": "JawaTengah",
+    "city": "Kab. Rembang",
+    "district": "Rembang",
+    "lat": "-6.700000",
+    "lon": "111.350000"
+  },
+  {
+    "id": "501261",
+    "province": "JawaTengah",
+    "city": "city Salatiga",
+    "district": "Salatiga",
+    "lat": "-7.343040",
+    "lon": "110.499770"
+  },
+  {
+    "id": "501262",
+    "province": "JawaTengah",
+    "city": "city Semarang",
+    "district": "Semarang",
+    "lat": "-6.959144",
+    "lon": "110.438690"
+  },
+  {
+    "id": "501263",
+    "province": "JawaTengah",
+    "city": "Kab. Tegal",
+    "district": "Slawi",
+    "lat": "-7.049730",
+    "lon": "109.157440"
+  },
+  {
+    "id": "501264",
+    "province": "JawaTengah",
+    "city": "Kab. Sragen",
+    "district": "Sragen",
+    "lat": "-7.429879",
+    "lon": "111.025085"
+  },
+  {
+    "id": "501265",
+    "province": "JawaTengah",
+    "city": "Kab. Sukoharjo",
+    "district": "Sukoharjo",
+    "lat": "-7.682870",
+    "lon": "110.831460"
+  },
+  {
+    "id": "501266",
+    "province": "JawaTengah",
+    "city": "city Surakarta",
+    "district": "Surakarta",
+    "lat": "-7.559140",
+    "lon": "110.823970"
+  },
+  {
+    "id": "501267",
+    "province": "JawaTengah",
+    "city": "city Tegal",
+    "district": "Tegal",
+    "lat": "-6.860815",
+    "lon": "109.152431"
+  },
+  {
+    "id": "501268",
+    "province": "JawaTengah",
+    "city": "Kab. Temanggung",
+    "district": "Temanggung",
+    "lat": "-7.245730",
+    "lon": "110.137300"
+  },
+  {
+    "id": "501269",
+    "province": "JawaTengah",
+    "city": "Kab. Semarang",
+    "district": "Ungaran",
+    "lat": "-7.140000",
+    "lon": "110.450000"
+  },
+  {
+    "id": "501270",
+    "province": "JawaTengah",
+    "city": "Kab. Wonogiri",
+    "district": "Wonogiri",
+    "lat": "-7.800000",
+    "lon": "110.910000"
+  },
+  {
+    "id": "501271",
+    "province": "JawaTengah",
+    "city": "Kab. Wonosobo",
+    "district": "Wonosobo",
+    "lat": "-7.397550",
+    "lon": "109.902940"
+  },
+  {
+    "id": "1200071",
+    "province": "JawaTengah",
+    "city": "Semarang",
+    "district": "Pelabuhan Semarang",
+    "lat": "-6.723257",
+    "lon": "110.346680"
+  },
+  {
+    "id": "501272",
+    "province": "JawaTimur",
+    "city": "Kab. Bangkalan",
+    "district": "Bangkalan",
+    "lat": "-7.033333",
+    "lon": "112.766700"
+  },
+  {
+    "id": "501273",
+    "province": "JawaTimur",
+    "city": "Kab. Banyuwangi",
+    "district": "Banyuwangi",
+    "lat": "-8.216667",
+    "lon": "114.350000"
+  },
+  {
+    "id": "501274",
+    "province": "JawaTimur",
+    "city": "city Batu",
+    "district": "Batu",
+    "lat": "-7.837080",
+    "lon": "112.531440"
+  },
+  {
+    "id": "501275",
+    "province": "JawaTimur",
+    "city": "city Blitar",
+    "district": "city Blitar",
+    "lat": "-8.097300",
+    "lon": "112.137451"
+  },
+  {
+    "id": "501277",
+    "province": "JawaTimur",
+    "city": "Kab. Bojonegoro",
+    "district": "Bojonegoro",
+    "lat": "-7.183333",
+    "lon": "111.900000"
+  },
+  {
+    "id": "501278",
+    "province": "JawaTimur",
+    "city": "Kab. Bondowoso",
+    "district": "Bondowoso",
+    "lat": "-7.916667",
+    "lon": "113.816700"
+  },
+  {
+    "id": "501279",
+    "province": "JawaTimur",
+    "city": "Kab. Gresik",
+    "district": "Gresik",
+    "lat": "-7.158125",
+    "lon": "112.651062"
+  },
+  {
+    "id": "501280",
+    "province": "JawaTimur",
+    "city": "Kab. Jember",
+    "district": "Jember",
+    "lat": "-8.183333",
+    "lon": "113.683300"
+  },
+  {
+    "id": "501281",
+    "province": "JawaTimur",
+    "city": "Kab. Jombang",
+    "district": "Jombang",
+    "lat": "-7.559940",
+    "lon": "112.257190"
+  },
+  {
+    "id": "501282",
+    "province": "JawaTimur",
+    "city": "city Kediri",
+    "district": "city Kediri",
+    "lat": "-7.811684",
+    "lon": "112.016602"
+  },
+  {
+    "id": "501284",
+    "province": "JawaTimur",
+    "city": "Kab. Malang",
+    "district": "Kabupaten Malang",
+    "lat": "-8.131161",
+    "lon": "112.570081"
+  },
+  {
+    "id": "501285",
+    "province": "JawaTimur",
+    "city": "Kab. Lamongan",
+    "district": "Lamongan",
+    "lat": "-7.130000",
+    "lon": "112.390000"
+  },
+  {
+    "id": "501286",
+    "province": "JawaTimur",
+    "city": "Kab. Lumajang",
+    "district": "Lumajang",
+    "lat": "-8.133333",
+    "lon": "113.216700"
+  },
+  {
+    "id": "501287",
+    "province": "JawaTimur",
+    "city": "city Madiun",
+    "district": "city Madiun",
+    "lat": "-7.631490",
+    "lon": "111.530280"
+  },
+  {
+    "id": "501288",
+    "province": "JawaTimur",
+    "city": "Kab. Madiun",
+    "district": "Kabupaten Madiun",
+    "lat": "-7.612590",
+    "lon": "111.647130"
+  },
+  {
+    "id": "501289",
+    "province": "JawaTimur",
+    "city": "Kab. Magetan",
+    "district": "Magetan",
+    "lat": "-7.654530",
+    "lon": "111.346800"
+  },
+  {
+    "id": "501290",
+    "province": "JawaTimur",
+    "city": "city Malang",
+    "district": "city Malang",
+    "lat": "-7.976490",
+    "lon": "112.627250"
+  },
+  {
+    "id": "501291",
+    "province": "JawaTimur",
+    "city": "city Mojokerto",
+    "district": "city Mojokerto",
+    "lat": "-7.468070",
+    "lon": "112.437700"
+  },
+  {
+    "id": "501293",
+    "province": "JawaTimur",
+    "city": "Kab. Nganjuk",
+    "district": "Nganjuk",
+    "lat": "-7.556000",
+    "lon": "111.900000"
+  },
+  {
+    "id": "501294",
+    "province": "JawaTimur",
+    "city": "Kab. Ngawi",
+    "district": "Ngawi",
+    "lat": "-7.400000",
+    "lon": "111.433300"
+  },
+  {
+    "id": "501295",
+    "province": "JawaTimur",
+    "city": "Kab. Pacitan",
+    "district": "Pacitan",
+    "lat": "-8.200000",
+    "lon": "111.116700"
+  },
+  {
+    "id": "501296",
+    "province": "JawaTimur",
+    "city": "Kab. Pamekasan",
+    "district": "Pamekasan",
+    "lat": "-7.160000",
+    "lon": "113.480000"
+  },
+  {
+    "id": "501297",
+    "province": "JawaTimur",
+    "city": "city Pasuruan",
+    "district": "city Pasuruan",
+    "lat": "-7.640000",
+    "lon": "112.880000"
+  },
+  {
+    "id": "501299",
+    "province": "JawaTimur",
+    "city": "Kab. Ponorogo",
+    "district": "Ponorogo",
+    "lat": "-7.866667",
+    "lon": "111.450000"
+  },
+  {
+    "id": "501300",
+    "province": "JawaTimur",
+    "city": "city Probolinggo",
+    "district": "city Probolinggo",
+    "lat": "-7.781280",
+    "lon": "113.209050"
+  },
+  {
+    "id": "501302",
+    "province": "JawaTimur",
+    "city": "Kab. Sampang",
+    "district": "Sampang",
+    "lat": "-7.183333",
+    "lon": "113.216700"
+  },
+  {
+    "id": "501303",
+    "province": "JawaTimur",
+    "city": "Kab. Sidoarjo",
+    "district": "Sidoarjo",
+    "lat": "-7.440000",
+    "lon": "112.770000"
+  },
+  {
+    "id": "501304",
+    "province": "JawaTimur",
+    "city": "Kab. Situbondo",
+    "district": "Situbondo",
+    "lat": "-7.690000",
+    "lon": "114.010000"
+  },
+  {
+    "id": "501305",
+    "province": "JawaTimur",
+    "city": "Kab. Sumenep",
+    "district": "Sumenep",
+    "lat": "-7.000340",
+    "lon": "113.851810"
+  },
+  {
+    "id": "501306",
+    "province": "JawaTimur",
+    "city": "city Surabaya",
+    "district": "Surabaya",
+    "lat": "-7.279810",
+    "lon": "112.711090"
+  },
+  {
+    "id": "501307",
+    "province": "JawaTimur",
+    "city": "Kab. Trenggalek",
+    "district": "Trenggalek",
+    "lat": "-8.050000",
+    "lon": "111.716700"
+  },
+  {
+    "id": "501308",
+    "province": "JawaTimur",
+    "city": "Kab. Tuban",
+    "district": "Tuban",
+    "lat": "-6.900000",
+    "lon": "112.050000"
+  },
+  {
+    "id": "501309",
+    "province": "JawaTimur",
+    "city": "Kab. Tulungagung",
+    "district": "Tulungagung",
+    "lat": "-8.075600",
+    "lon": "111.915870"
+  },
+  {
+    "id": "1200076",
+    "province": "JawaTimur",
+    "city": "Surabaya",
+    "district": "Pelabuhan Surabaya",
+    "lat": "-7.309347",
+    "lon": "112.965546"
+  },
+  {
+    "id": "5002268",
+    "province": "JawaTimur",
+    "city": "Kab. Kediri",
+    "district": "Kabupaten Kediri",
+    "lat": "-7.806242",
+    "lon": "112.180023"
+  },
+  {
+    "id": "5002269",
+    "province": "JawaTimur",
+    "city": "Kab. Mojokerto",
+    "district": "Kabupaten Mojokerto",
+    "lat": "-7.620484",
+    "lon": "112.510643"
+  },
+  {
+    "id": "5002270",
+    "province": "JawaTimur",
+    "city": "Kab. Probolinggo",
+    "district": "Kabupaten Probolinggo",
+    "lat": "-7.850203",
+    "lon": "113.310242"
+  },
+  {
+    "id": "5002271",
+    "province": "JawaTimur",
+    "city": "Kab. Blitar",
+    "district": "Kabupaten Blitar",
+    "lat": "-8.129929",
+    "lon": "112.252808"
+  },
+  {
+    "id": "5002272",
+    "province": "JawaTimur",
+    "city": "Kab. Pasuruan",
+    "district": "Kabupaten Pasuruan",
+    "lat": "-7.750285",
+    "lon": "112.820148"
+  },
+  {
+    "id": "501310",
+    "province": "KalimantanBarat",
+    "city": "Kab. Bengkayang",
+    "district": "Bengkayang",
+    "lat": "0.950274",
+    "lon": "109.654541"
+  },
+  {
+    "id": "501311",
+    "province": "KalimantanBarat",
+    "city": "Kab. Ketapang",
+    "district": "Ketapang",
+    "lat": "-1.809697",
+    "lon": "109.977264"
+  },
+  {
+    "id": "501312",
+    "province": "KalimantanBarat",
+    "city": "Kab. Ngabang",
+    "district": "Landak",
+    "lat": "0.598744",
+    "lon": "109.918213"
+  },
+  {
+    "id": "501313",
+    "province": "KalimantanBarat",
+    "city": "Kab. Pontianak",
+    "district": "Mempawah",
+    "lat": "0.365293",
+    "lon": "109.003601"
+  },
+  {
+    "id": "501315",
+    "province": "KalimantanBarat",
+    "city": "city Pontianak",
+    "district": "Pontianak",
+    "lat": "-0.089020",
+    "lon": "109.351440"
+  },
+  {
+    "id": "501317",
+    "province": "KalimantanBarat",
+    "city": "Kab. Sambas",
+    "district": "Sambas",
+    "lat": "1.516230",
+    "lon": "109.328920"
+  },
+  {
+    "id": "501318",
+    "province": "KalimantanBarat",
+    "city": "Kab. Sanggau",
+    "district": "Sanggau",
+    "lat": "0.210000",
+    "lon": "110.460000"
+  },
+  {
+    "id": "501319",
+    "province": "KalimantanBarat",
+    "city": "Kab. Sekadau",
+    "district": "Sekadau",
+    "lat": "0.055940",
+    "lon": "110.953410"
+  },
+  {
+    "id": "501320",
+    "province": "KalimantanBarat",
+    "city": "city Singkawang",
+    "district": "Singkawang",
+    "lat": "0.879060",
+    "lon": "109.019200"
+  },
+  {
+    "id": "501321",
+    "province": "KalimantanBarat",
+    "city": "Kab. Sintang",
+    "district": "Sintang",
+    "lat": "0.083333",
+    "lon": "111.583300"
+  },
+  {
+    "id": "5002218",
+    "province": "KalimantanBarat",
+    "city": "Kab. Kubu Raya",
+    "district": "Kubu Raya",
+    "lat": "-0.491632",
+    "lon": "109.703979"
+  },
+  {
+    "id": "5002241",
+    "province": "KalimantanBarat",
+    "city": "Kab. Kapuas Hulu",
+    "district": "Kapuas Hulu",
+    "lat": "0.834245",
+    "lon": "112.936363"
+  },
+  {
+    "id": "5002242",
+    "province": "KalimantanBarat",
+    "city": "Kab. Melawi",
+    "district": "Melawi",
+    "lat": "-0.342806",
+    "lon": "111.775160"
+  },
+  {
+    "id": "5002243",
+    "province": "KalimantanBarat",
+    "city": "Kab. Kayong Utara",
+    "district": "Kayong Utara",
+    "lat": "-1.236896",
+    "lon": "109.955635"
+  },
+  {
+    "id": "5002258",
+    "province": "KalimantanBarat",
+    "city": "Kab. Kubu Raya",
+    "district": "Sungai Raya",
+    "lat": "-0.237579",
+    "lon": "109.576263"
+  },
+  {
+    "id": "501323",
+    "province": "KalimantanSelatan",
+    "city": "Kab. Hulu Sungai Utara",
+    "district": "Amuntai",
+    "lat": "-2.420000",
+    "lon": "115.150000"
+  },
+  {
+    "id": "501324",
+    "province": "KalimantanSelatan",
+    "city": "city Banjarbaru",
+    "district": "Banjarbaru",
+    "lat": "-3.461333",
+    "lon": "114.768677"
+  },
+  {
+    "id": "501325",
+    "province": "KalimantanSelatan",
+    "city": "city Banjarmasin",
+    "district": "Banjarmasin",
+    "lat": "-3.328280",
+    "lon": "114.573150"
+  },
+  {
+    "id": "501326",
+    "province": "KalimantanSelatan",
+    "city": "Kab. Tanah Bambu",
+    "district": "Batulicin",
+    "lat": "-3.466816",
+    "lon": "115.960693"
+  },
+  {
+    "id": "501327",
+    "province": "KalimantanSelatan",
+    "city": "Kab. Hulu Sungai Tengah",
+    "district": "Barabai",
+    "lat": "-2.631170",
+    "lon": "115.421430"
+  },
+  {
+    "id": "501328",
+    "province": "KalimantanSelatan",
+    "city": "Kab. Hulu Sungai Selatan",
+    "district": "Kandangan",
+    "lat": "-2.833333",
+    "lon": "115.333300"
+  },
+  {
+    "id": "501329",
+    "province": "KalimantanSelatan",
+    "city": "Kab. citybaru",
+    "district": "citybaru",
+    "lat": "-3.260000",
+    "lon": "116.230000"
+  },
+  {
+    "id": "501330",
+    "province": "KalimantanSelatan",
+    "city": "Kab. Barito Kuala",
+    "district": "Marabahan",
+    "lat": "-2.940000",
+    "lon": "114.740000"
+  },
+  {
+    "id": "501332",
+    "province": "KalimantanSelatan",
+    "city": "Kab. Balangan",
+    "district": "Paringin",
+    "lat": "-2.400000",
+    "lon": "115.410000"
+  },
+  {
+    "id": "501333",
+    "province": "KalimantanSelatan",
+    "city": "Kab. Tanah Laut",
+    "district": "Pelaihari",
+    "lat": "-3.916667",
+    "lon": "114.750000"
+  },
+  {
+    "id": "501334",
+    "province": "KalimantanSelatan",
+    "city": "Kab. Tapin",
+    "district": "Rantau",
+    "lat": "-2.920000",
+    "lon": "115.110000"
+  },
+  {
+    "id": "501426",
+    "province": "KalimantanSelatan",
+    "city": "Kab. Tabalong",
+    "district": "Tanjung",
+    "lat": "-1.829890",
+    "lon": "115.447900"
+  },
+  {
+    "id": "501563",
+    "province": "KalimantanSelatan",
+    "city": "Kab. Banjar",
+    "district": "Martapura",
+    "lat": "-3.406500",
+    "lon": "114.829102"
+  },
+  {
+    "id": "501335",
+    "province": "KalimantanTengah",
+    "city": "Kab. Barito Selatan",
+    "district": "Buntok",
+    "lat": "-1.666667",
+    "lon": "114.966700"
+  },
+  {
+    "id": "501336",
+    "province": "KalimantanTengah",
+    "city": "Kab. Katingan",
+    "district": "Kasongan",
+    "lat": "-2.000010",
+    "lon": "113.500000"
+  },
+  {
+    "id": "501337",
+    "province": "KalimantanTengah",
+    "city": "Kab. Kapuas",
+    "district": "Kuala Kapuas",
+    "lat": "-2.916667",
+    "lon": "114.333300"
+  },
+  {
+    "id": "501338",
+    "province": "KalimantanTengah",
+    "city": "Kab. Gunung Mas",
+    "district": "Kuala Kurun",
+    "lat": "-1.190000",
+    "lon": "113.900000"
+  },
+  {
+    "id": "501339",
+    "province": "KalimantanTengah",
+    "city": "Kab. Seruyan",
+    "district": "Kuala Pembuang",
+    "lat": "-3.337268",
+    "lon": "112.540855"
+  },
+  {
+    "id": "501340",
+    "province": "KalimantanTengah",
+    "city": "Kab. Barito Utara",
+    "district": "Muarateweh",
+    "lat": "-0.966667",
+    "lon": "114.866700"
+  },
+  {
+    "id": "501341",
+    "province": "KalimantanTengah",
+    "city": "Kab. Lamandau",
+    "district": "Nanga Bulik",
+    "lat": "-2.180000",
+    "lon": "111.380000"
+  },
+  {
+    "id": "501342",
+    "province": "KalimantanTengah",
+    "city": "city Palangkaraya",
+    "district": "Palangkaraya",
+    "lat": "-2.210000",
+    "lon": "113.920000"
+  },
+  {
+    "id": "501343",
+    "province": "KalimantanTengah",
+    "city": "Kab. citywaringin Barat",
+    "district": "Pangkalan Bun",
+    "lat": "-2.683333",
+    "lon": "111.616700"
+  },
+  {
+    "id": "501344",
+    "province": "KalimantanTengah",
+    "city": "Kab. Pulang Pisau",
+    "district": "Pulangpisau",
+    "lat": "-2.798426",
+    "lon": "114.200177"
+  },
+  {
+    "id": "501345",
+    "province": "KalimantanTengah",
+    "city": "Kab. Murung Raya",
+    "district": "Puruk Cahu",
+    "lat": "-0.583333",
+    "lon": "114.583300"
+  },
+  {
+    "id": "501346",
+    "province": "KalimantanTengah",
+    "city": "Kab. citywaringin Timur",
+    "district": "Sampit",
+    "lat": "-2.566667",
+    "lon": "113.000010"
+  },
+  {
+    "id": "501347",
+    "province": "KalimantanTengah",
+    "city": "Kab. Sukamara",
+    "district": "Sukamara",
+    "lat": "-2.606980",
+    "lon": "111.312103"
+  },
+  {
+    "id": "501348",
+    "province": "KalimantanTengah",
+    "city": "Kab. Barito Timur",
+    "district": "Tamiang Layang",
+    "lat": "-2.080000",
+    "lon": "115.180000"
+  },
+  {
+    "id": "1200067",
+    "province": "KalimantanTengah",
+    "city": "Sampit",
+    "district": "Pelabuhan Sampit",
+    "lat": "-3.291340",
+    "lon": "113.093262"
+  },
+  {
+    "id": "501349",
+    "province": "KalimantanTimur",
+    "city": "city Balikpapan",
+    "district": "Balikpapan",
+    "lat": "-1.093760",
+    "lon": "116.850586"
+  },
+  {
+    "id": "501350",
+    "province": "KalimantanTimur",
+    "city": "city Bontang",
+    "district": "Bontang",
+    "lat": "0.166667",
+    "lon": "117.500000"
+  },
+  {
+    "id": "501353",
+    "province": "KalimantanTimur",
+    "city": "Kab. Penajam Paser Utara",
+    "district": "Penajam",
+    "lat": "-1.218710",
+    "lon": "116.611820"
+  },
+  {
+    "id": "501354",
+    "province": "KalimantanTimur",
+    "city": "city Samarinda",
+    "district": "Samarinda",
+    "lat": "-0.430180",
+    "lon": "117.174320"
+  },
+  {
+    "id": "501355",
+    "province": "KalimantanTimur",
+    "city": "Kab. Kutai Barat",
+    "district": "Sendawar",
+    "lat": "-0.083333",
+    "lon": "115.750000"
+  },
+  {
+    "id": "501356",
+    "province": "KalimantanTimur",
+    "city": "Kab. Kutai Timur",
+    "district": "Sengata",
+    "lat": "0.460000",
+    "lon": "117.530000"
+  },
+  {
+    "id": "501357",
+    "province": "KalimantanTimur",
+    "city": "Kab. Pasir",
+    "district": "Tanah Grogot",
+    "lat": "-1.916667",
+    "lon": "116.250000"
+  },
+  {
+    "id": "501358",
+    "province": "KalimantanTimur",
+    "city": "Kab. Berau",
+    "district": "Tanjung Redeb",
+    "lat": "2.170000",
+    "lon": "117.620000"
+  },
+  {
+    "id": "501361",
+    "province": "KalimantanTimur",
+    "city": "Kab. Kutai Kartanegara",
+    "district": "Tenggarong",
+    "lat": "-0.400000",
+    "lon": "116.966700"
+  },
+  {
+    "id": "1200003",
+    "province": "KalimantanTimur",
+    "city": "Balikpapan",
+    "district": "Pelabuhan Balikpapan",
+    "lat": "-1.355312",
+    "lon": "116.884918"
+  },
+  {
+    "id": "1200059",
+    "province": "KalimantanTimur",
+    "city": "Nunukan",
+    "district": "Pelabuhan Nunukan",
+    "lat": "3.864255",
+    "lon": "118.026123"
+  },
+  {
+    "id": "1200079",
+    "province": "KalimantanTimur",
+    "city": "Taraka",
+    "district": "Pelabuhan Tarakan",
+    "lat": "3.228271",
+    "lon": "117.971191"
+  },
+  {
+    "id": "501351",
+    "province": "KalimantanUtara",
+    "city": "Kab. Malinau",
+    "district": "Malinau",
+    "lat": "3.584695",
+    "lon": "116.669312"
+  },
+  {
+    "id": "501352",
+    "province": "KalimantanUtara",
+    "city": "Kab. Nunukan",
+    "district": "Nunukan",
+    "lat": "4.127457",
+    "lon": "117.638340"
+  },
+  {
+    "id": "501359",
+    "province": "KalimantanUtara",
+    "city": "Kab. Bulungan",
+    "district": "Tanjung Selor",
+    "lat": "2.729070",
+    "lon": "117.479553"
+  },
+  {
+    "id": "501360",
+    "province": "KalimantanUtara",
+    "city": "city Tarakan",
+    "district": "Tarakan",
+    "lat": "3.329128",
+    "lon": "117.571049"
+  },
+  {
+    "id": "501600",
+    "province": "KalimantanUtara",
+    "city": "Kab. Tana Tidung",
+    "district": "Tana Tidung",
+    "lat": "3.864255",
+    "lon": "116.834106"
+  },
+  {
+    "id": "501369",
+    "province": "KepulauanRiau",
+    "city": "Kab. Lingga",
+    "district": "Daik Lingga",
+    "lat": "-0.071411",
+    "lon": "104.595337"
+  },
+  {
+    "id": "501370",
+    "province": "KepulauanRiau",
+    "city": "Kab. Natuna",
+    "district": "Ranai",
+    "lat": "3.913579",
+    "lon": "108.209839"
+  },
+  {
+    "id": "501371",
+    "province": "KepulauanRiau",
+    "city": "city Tanjung Pinang",
+    "district": "Tanjung Pinang",
+    "lat": "0.906334",
+    "lon": "104.562378"
+  },
+  {
+    "id": "501372",
+    "province": "KepulauanRiau",
+    "city": "Kab. Anambas",
+    "district": "Tarempa",
+    "lat": "3.239240",
+    "lon": "106.254272"
+  },
+  {
+    "id": "501601",
+    "province": "KepulauanRiau",
+    "city": "city Batam",
+    "district": "Batam",
+    "lat": "1.133333",
+    "lon": "104.000010"
+  },
+  {
+    "id": "501602",
+    "province": "KepulauanRiau",
+    "city": "Kab. Bintan",
+    "district": "Bintan",
+    "lat": "1.082089",
+    "lon": "104.430542"
+  },
+  {
+    "id": "501603",
+    "province": "KepulauanRiau",
+    "city": "Kab. Karimun",
+    "district": "Tanjung Balai Karimun",
+    "lat": "0.999190",
+    "lon": "103.431310"
+  },
+  {
+    "id": "1200008",
+    "province": "KepulauanRiau",
+    "city": "Batam",
+    "district": "Pelabuhan Batam",
+    "lat": "1.157176",
+    "lon": "103.986626"
+  },
+  {
+    "id": "1200080",
+    "province": "KepulauanRiau",
+    "city": "Tarempa",
+    "district": "Pelabuhan Tarempa",
+    "lat": "3.255693",
+    "lon": "106.193848"
+  },
+  {
+    "id": "501373",
+    "province": "Lampung",
+    "city": "city Bandar Lampung",
+    "district": "Bandar Lampung",
+    "lat": "-5.423960",
+    "lon": "105.251130"
+  },
+  {
+    "id": "501374",
+    "province": "Lampung",
+    "city": "Kab. Way Kanan",
+    "district": "Blambangan Umpu",
+    "lat": "-4.575540",
+    "lon": "104.647590"
+  },
+  {
+    "id": "501375",
+    "province": "Lampung",
+    "city": "Kab. Lampung Tengah",
+    "district": "Gunung Sugih",
+    "lat": "-4.929444",
+    "lon": "105.221389"
+  },
+  {
+    "id": "501376",
+    "province": "Lampung",
+    "city": "Kab. Lampung Selatan",
+    "district": "Kalianda",
+    "lat": "-5.700000",
+    "lon": "105.570000"
+  },
+  {
+    "id": "501377",
+    "province": "Lampung",
+    "city": "Kab. Tanggamus",
+    "district": "city Agung",
+    "lat": "-5.487502",
+    "lon": "104.617310"
+  },
+  {
+    "id": "501378",
+    "province": "Lampung",
+    "city": "Kab. Lampung Utara",
+    "district": "citybumi",
+    "lat": "-4.816667",
+    "lon": "104.900000"
+  },
+  {
+    "id": "501379",
+    "province": "Lampung",
+    "city": "Kab. Lampung Barat",
+    "district": "Liwa",
+    "lat": "-5.020000",
+    "lon": "104.070000"
+  },
+  {
+    "id": "501380",
+    "province": "Lampung",
+    "city": "Kab. Tulang Bawang",
+    "district": "Menggala",
+    "lat": "-4.500000",
+    "lon": "105.250000"
+  },
+  {
+    "id": "501381",
+    "province": "Lampung",
+    "city": "city Metro",
+    "district": "Metro",
+    "lat": "-5.100000",
+    "lon": "105.330000"
+  },
+  {
+    "id": "5002234",
+    "province": "Lampung",
+    "city": "Kab. Lampung Timur",
+    "district": "Sukadana",
+    "lat": "-5.066322",
+    "lon": "105.501709"
+  },
+  {
+    "id": "5002236",
+    "province": "Lampung",
+    "city": "Kab. Pesawaran",
+    "district": "Gedong Tataan",
+    "lat": "-5.503906",
+    "lon": "105.136414"
+  },
+  {
+    "id": "5002237",
+    "province": "Lampung",
+    "city": "Kab. Lampung Barat",
+    "district": "Krui",
+    "lat": "-5.296092",
+    "lon": "104.111938"
+  },
+  {
+    "id": "5002238",
+    "province": "Lampung",
+    "city": "Kab. Tulang Bawang Barat",
+    "district": "Panaragan Jaya",
+    "lat": "-4.412137",
+    "lon": "105.054016"
+  },
+  {
+    "id": "5002239",
+    "province": "Lampung",
+    "city": "Kab. Mesuji",
+    "district": "Wiralaga Mulya",
+    "lat": "-3.984821",
+    "lon": "105.309448"
+  },
+  {
+    "id": "5013669",
+    "province": "Lampung",
+    "city": "Kab. Pringsewu",
+    "district": "Pringsewu",
+    "lat": "-5.210000",
+    "lon": "104.580000"
+  },
+  {
+    "id": "501382",
+    "province": "Maluku",
+    "city": "city Ambon",
+    "district": "Ambon",
+    "lat": "-3.672650",
+    "lon": "128.233810"
+  },
+  {
+    "id": "501383",
+    "province": "Maluku",
+    "city": "Kab. Seram Bagian Timur",
+    "district": "Bula",
+    "lat": "-3.100000",
+    "lon": "130.500000"
+  },
+  {
+    "id": "501384",
+    "province": "Maluku",
+    "city": "Kab. Kepulauan Aru",
+    "district": "Dobo",
+    "lat": "-5.752640",
+    "lon": "134.258423"
+  },
+  {
+    "id": "501385",
+    "province": "Maluku",
+    "city": "Kab. Maluku Tengah",
+    "district": "Masohi",
+    "lat": "-3.346865",
+    "lon": "128.929367"
+  },
+  {
+    "id": "501386",
+    "province": "Maluku",
+    "city": "Kab. Buru",
+    "district": "Namlea",
+    "lat": "-3.260000",
+    "lon": "127.100000"
+  },
+  {
+    "id": "501387",
+    "province": "Maluku",
+    "city": "Kab. Seram Bagian Barat",
+    "district": "Piru",
+    "lat": "-3.066667",
+    "lon": "128.200000"
+  },
+  {
+    "id": "501388",
+    "province": "Maluku",
+    "city": "Kab. Maluku Tenggara Barat",
+    "district": "Saumlaki",
+    "lat": "-7.916667",
+    "lon": "131.333300"
+  },
+  {
+    "id": "501389",
+    "province": "Maluku",
+    "city": "Kab. Maluku Tenggara",
+    "district": "Tual",
+    "lat": "-5.633333",
+    "lon": "132.733300"
+  },
+  {
+    "id": "1200001",
+    "province": "Maluku",
+    "city": "Ambon",
+    "district": "Pelabuhan Ambon",
+    "lat": "-3.700333",
+    "lon": "128.169079"
+  },
+  {
+    "id": "1200020",
+    "province": "Maluku",
+    "city": "Bula",
+    "district": "Pelabuhan Bula",
+    "lat": "-3.052754",
+    "lon": "130.513458"
+  },
+  {
+    "id": "1200022",
+    "province": "Maluku",
+    "city": "Dobo",
+    "district": "Pelabuhan Dobo",
+    "lat": "-5.725311",
+    "lon": "134.184265"
+  },
+  {
+    "id": "1200056",
+    "province": "Maluku",
+    "city": "Namlea",
+    "district": "Pelabuhan Namlea",
+    "lat": "-3.268032",
+    "lon": "127.159882"
+  },
+  {
+    "id": "1200069",
+    "province": "Maluku",
+    "city": "Saumlaki",
+    "district": "Pelabuhan Saumlaki",
+    "lat": "-8.082344",
+    "lon": "131.255035"
+  },
+  {
+    "id": "1200090",
+    "province": "Maluku",
+    "city": "Tual",
+    "district": "Pelabuhan Tual",
+    "lat": "-5.535345",
+    "lon": "132.650299"
+  },
+  {
+    "id": "1200094",
+    "province": "Maluku",
+    "city": "Kab. Buru Selatan",
+    "district": "Leksula",
+    "lat": "-3.612107",
+    "lon": "126.359253"
+  },
+  {
+    "id": "1200097",
+    "province": "Maluku",
+    "city": "Kab. Maluku Barat Daya",
+    "district": "Kisar",
+    "lat": "-8.017756",
+    "lon": "127.198334"
+  },
+  {
+    "id": "501390",
+    "province": "MalukuUtara",
+    "city": "Kab. Halmahera Barat",
+    "district": "Jailolo",
+    "lat": "1.087581",
+    "lon": "127.474709"
+  },
+  {
+    "id": "501391",
+    "province": "MalukuUtara",
+    "city": "Kab. Halmahera Selatan",
+    "district": "Labuha",
+    "lat": "-0.638224",
+    "lon": "127.501144"
+  },
+  {
+    "id": "501392",
+    "province": "MalukuUtara",
+    "city": "Kab. Halmahera Timur",
+    "district": "Maba",
+    "lat": "0.721130",
+    "lon": "128.260403"
+  },
+  {
+    "id": "501393",
+    "province": "MalukuUtara",
+    "city": "Kab. Kepulauan Sula",
+    "district": "Sanana",
+    "lat": "-2.062581",
+    "lon": "125.961685"
+  },
+  {
+    "id": "501394",
+    "province": "MalukuUtara",
+    "city": "city Ternate",
+    "district": "Ternate",
+    "lat": "0.833215",
+    "lon": "127.365532"
+  },
+  {
+    "id": "501395",
+    "province": "MalukuUtara",
+    "city": "Kab. Halmahera Utara",
+    "district": "Tobelo",
+    "lat": "1.735403",
+    "lon": "128.007030"
+  },
+  {
+    "id": "501396",
+    "province": "MalukuUtara",
+    "city": "Kab. Halmahera Tengah",
+    "district": "Weda",
+    "lat": "0.350530",
+    "lon": "127.855968"
+  },
+  {
+    "id": "501604",
+    "province": "MalukuUtara",
+    "city": "city Tidore Kepulauan",
+    "district": "Tidore",
+    "lat": "0.707399",
+    "lon": "127.381840"
+  },
+  {
+    "id": "5002253",
+    "province": "MalukuUtara",
+    "city": "city Tidore Kepulauan",
+    "district": "Sofifi",
+    "lat": "0.767518",
+    "lon": "127.608433"
+  },
+  {
+    "id": "5002254",
+    "province": "MalukuUtara",
+    "city": "Kab. Pulau Taliabu",
+    "district": "Taliabu",
+    "lat": "-1.835261",
+    "lon": "125.489273"
+  },
+  {
+    "id": "5002255",
+    "province": "MalukuUtara",
+    "city": "Kab. Pulau Morotai",
+    "district": "Morotai",
+    "lat": "2.067727",
+    "lon": "128.320312"
+  },
+  {
+    "id": "501418",
+    "province": "NusaTenggaraBarat",
+    "city": "city Bima",
+    "district": "city Bima",
+    "lat": "-8.460000",
+    "lon": "118.720000"
+  },
+  {
+    "id": "501419",
+    "province": "NusaTenggaraBarat",
+    "city": "Kab. Dompu",
+    "district": "Dompu",
+    "lat": "-8.536207",
+    "lon": "118.464203"
+  },
+  {
+    "id": "501420",
+    "province": "NusaTenggaraBarat",
+    "city": "Kab. Lombok Barat",
+    "district": "Gerung",
+    "lat": "-8.682173",
+    "lon": "116.156387"
+  },
+  {
+    "id": "501421",
+    "province": "NusaTenggaraBarat",
+    "city": "city Mataram",
+    "district": "Mataram",
+    "lat": "-8.581420",
+    "lon": "116.117370"
+  },
+  {
+    "id": "501422",
+    "province": "NusaTenggaraBarat",
+    "city": "Kab. Lombok Tengah",
+    "district": "Praya",
+    "lat": "-8.681150",
+    "lon": "116.282810"
+  },
+  {
+    "id": "501423",
+    "province": "NusaTenggaraBarat",
+    "city": "Kab. Lombok Timur",
+    "district": "Selong",
+    "lat": "-8.583740",
+    "lon": "116.572980"
+  },
+  {
+    "id": "501424",
+    "province": "NusaTenggaraBarat",
+    "city": "Kab. Sumbawa",
+    "district": "Sumbawa Besar",
+    "lat": "-8.490000",
+    "lon": "117.410000"
+  },
+  {
+    "id": "501425",
+    "province": "NusaTenggaraBarat",
+    "city": "Kab. Sumbawa Barat",
+    "district": "Taliwang",
+    "lat": "-8.796850",
+    "lon": "116.890080"
+  },
+  {
+    "id": "1200016",
+    "province": "NusaTenggaraBarat",
+    "city": "Bima",
+    "district": "Pelabuhan Bima",
+    "lat": "-8.263137",
+    "lon": "118.707275"
+  },
+  {
+    "id": "5002222",
+    "province": "NusaTenggaraBarat",
+    "city": "Kab. Bima",
+    "district": "Sape",
+    "lat": "-8.577457",
+    "lon": "119.011288"
+  },
+  {
+    "id": "5002223",
+    "province": "NusaTenggaraBarat",
+    "city": "Kab. Lombok Utara",
+    "district": "Tanjung",
+    "lat": "-8.357918",
+    "lon": "116.156216"
+  },
+  {
+    "id": "501427",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Belu",
+    "district": "Atambua",
+    "lat": "-9.100000",
+    "lon": "124.960000"
+  },
+  {
+    "id": "501428",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Rote Ndao",
+    "district": "Ba a",
+    "lat": "-10.740000",
+    "lon": "123.060000"
+  },
+  {
+    "id": "501429",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Ngada",
+    "district": "Bajawa",
+    "lat": "-8.810000",
+    "lon": "121.010000"
+  },
+  {
+    "id": "501430",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Ende",
+    "district": "Ende",
+    "lat": "-8.743597",
+    "lon": "121.505356"
+  },
+  {
+    "id": "501431",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Alor",
+    "district": "Kalabahi",
+    "lat": "-8.216667",
+    "lon": "124.516700"
+  },
+  {
+    "id": "501432",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Timor Tengah Utara",
+    "district": "Kefamenanu",
+    "lat": "-9.466667",
+    "lon": "124.483300"
+  },
+  {
+    "id": "501434",
+    "province": "NusaTenggaraTimur",
+    "city": "city Kupang",
+    "district": "Kupang",
+    "lat": "-10.224980",
+    "lon": "123.603740"
+  },
+  {
+    "id": "501435",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Manggarai Barat",
+    "district": "Labuan Bajo",
+    "lat": "-8.466667",
+    "lon": "119.900000"
+  },
+  {
+    "id": "501436",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Flores Timur",
+    "district": "Larantuka",
+    "lat": "-8.334904",
+    "lon": "122.994003"
+  },
+  {
+    "id": "501437",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Lembata",
+    "district": "Lewoleba",
+    "lat": "-8.390000",
+    "lon": "123.400000"
+  },
+  {
+    "id": "501438",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Sikka",
+    "district": "Maumere",
+    "lat": "-8.630000",
+    "lon": "122.190000"
+  },
+  {
+    "id": "501439",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Manggarai",
+    "district": "Ruteng",
+    "lat": "-8.567530",
+    "lon": "120.572070"
+  },
+  {
+    "id": "501440",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Timor Tengah Selatan",
+    "district": "Soe",
+    "lat": "-9.827070",
+    "lon": "124.425450"
+  },
+  {
+    "id": "501441",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Sumba Barat",
+    "district": "Waikabubak",
+    "lat": "-9.590820",
+    "lon": "119.433820"
+  },
+  {
+    "id": "501442",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Sumba Timur",
+    "district": "Waingapu",
+    "lat": "-9.660000",
+    "lon": "120.250000"
+  },
+  {
+    "id": "501607",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Manggarai Timur",
+    "district": "Borong",
+    "lat": "-8.850000",
+    "lon": "120.650000"
+  },
+  {
+    "id": "501608",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Nagekeo",
+    "district": "Mbay",
+    "lat": "-8.555972",
+    "lon": "121.273000"
+  },
+  {
+    "id": "501609",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Sumba Tengah",
+    "district": "Waibakul",
+    "lat": "-9.590000",
+    "lon": "119.574720"
+  },
+  {
+    "id": "501610",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Sumba Barat Daya",
+    "district": "Weetabula",
+    "lat": "-9.640560",
+    "lon": "119.700830"
+  },
+  {
+    "id": "1200023",
+    "province": "NusaTenggaraTimur",
+    "city": "Ende",
+    "district": "Pelabuhan Ende",
+    "lat": "-8.851150",
+    "lon": "121.620026"
+  },
+  {
+    "id": "1200030",
+    "province": "NusaTenggaraTimur",
+    "city": "Kalabahi",
+    "district": "Pelabuhan Kalabahi",
+    "lat": "-8.303906",
+    "lon": "124.387207"
+  },
+  {
+    "id": "1200037",
+    "province": "NusaTenggaraTimur",
+    "city": "Kupang",
+    "district": "Pelabuhan Kupang",
+    "lat": "-10.139228",
+    "lon": "123.528900"
+  },
+  {
+    "id": "1200039",
+    "province": "NusaTenggaraTimur",
+    "city": "Larantuka",
+    "district": "Pelabuhan Larantuka",
+    "lat": "-8.411244",
+    "lon": "122.927399"
+  },
+  {
+    "id": "1200043",
+    "province": "NusaTenggaraTimur",
+    "city": "Loweleba",
+    "district": "Pelabuhan Lewoleba",
+    "lat": "-8.389507",
+    "lon": "123.316727"
+  },
+  {
+    "id": "1200049",
+    "province": "NusaTenggaraTimur",
+    "city": "Maumere",
+    "district": "Pelabuhan Maumere",
+    "lat": "-8.541640",
+    "lon": "122.247620"
+  },
+  {
+    "id": "1200091",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Sumba Timur",
+    "district": "Pelabuhan Waingapu",
+    "lat": "-9.557417",
+    "lon": "120.250854"
+  },
+  {
+    "id": "5002256",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Sabu Raijua",
+    "district": "Sabu",
+    "lat": "-10.461479",
+    "lon": "121.879749"
+  },
+  {
+    "id": "5002265",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Malaka",
+    "district": "Betun",
+    "lat": "-9.562834",
+    "lon": "124.903564"
+  },
+  {
+    "id": "5002266",
+    "province": "NusaTenggaraTimur",
+    "city": "Kab. Kupang",
+    "district": "Oelamasi",
+    "lat": "-10.077037",
+    "lon": "123.859863"
+  },
+  {
+    "id": "501443",
+    "province": "Papua",
+    "city": "Kab. Asmat",
+    "district": "Agats",
+    "lat": "-5.566783",
+    "lon": "138.088531"
+  },
+  {
+    "id": "501444",
+    "province": "Papua",
+    "city": "Kab. Biak Numfor",
+    "district": "Biak",
+    "lat": "-1.166667",
+    "lon": "136.100000"
+  },
+  {
+    "id": "501445",
+    "province": "Papua",
+    "city": "Kab. Waropen",
+    "district": "Botawa",
+    "lat": "-2.230000",
+    "lon": "136.520000"
+  },
+  {
+    "id": "501446",
+    "province": "Papua",
+    "city": "Kab. Paniai",
+    "district": "Enarotali",
+    "lat": "-3.929278",
+    "lon": "136.379333"
+  },
+  {
+    "id": "501447",
+    "province": "Papua",
+    "city": "city Jayapura",
+    "district": "Jayapura",
+    "lat": "-2.556219",
+    "lon": "140.703278"
+  },
+  {
+    "id": "501448",
+    "province": "Papua",
+    "city": "Kab. Tolikara",
+    "district": "Karubaga",
+    "lat": "-3.684306",
+    "lon": "138.479528"
+  },
+  {
+    "id": "501449",
+    "province": "Papua",
+    "city": "Kab. Mappi",
+    "district": "Kepi",
+    "lat": "-6.533333",
+    "lon": "139.316700"
+  },
+  {
+    "id": "501450",
+    "province": "Papua",
+    "city": "Kab. Merauke",
+    "district": "Merauke",
+    "lat": "-8.483333",
+    "lon": "140.400000"
+  },
+  {
+    "id": "501451",
+    "province": "Papua",
+    "city": "Kab. Puncak Jaya",
+    "district": "Mulia",
+    "lat": "-3.712152",
+    "lon": "137.977295"
+  },
+  {
+    "id": "501452",
+    "province": "Papua",
+    "city": "Kab. Nabire",
+    "district": "Nabire",
+    "lat": "-3.440680",
+    "lon": "135.301820"
+  },
+  {
+    "id": "501453",
+    "province": "Papua",
+    "city": "Kab. Pegunungan Bintang",
+    "district": "Oksibil",
+    "lat": "-4.983333",
+    "lon": "140.583300"
+  },
+  {
+    "id": "501454",
+    "province": "Papua",
+    "city": "Kab. Sarmi",
+    "district": "Sarmi",
+    "lat": "-1.816667",
+    "lon": "138.733300"
+  },
+  {
+    "id": "501455",
+    "province": "Papua",
+    "city": "Kab. Jayapura",
+    "district": "Sentani",
+    "lat": "-2.566337",
+    "lon": "140.519428"
+  },
+  {
+    "id": "501456",
+    "province": "Papua",
+    "city": "Kab. Kep Yapen",
+    "district": "Serui",
+    "lat": "-1.720830",
+    "lon": "136.077530"
+  },
+  {
+    "id": "501457",
+    "province": "Papua",
+    "city": "Kab. Supiori",
+    "district": "Sorendiweri",
+    "lat": "-0.710000",
+    "lon": "135.730000"
+  },
+  {
+    "id": "501458",
+    "province": "Papua",
+    "city": "Kab. Yahukimo",
+    "district": "Sumohai",
+    "lat": "-4.446530",
+    "lon": "139.463330"
+  },
+  {
+    "id": "501459",
+    "province": "Papua",
+    "city": "Kab. Boven Digoel",
+    "district": "Tanah Merah",
+    "lat": "-6.187090",
+    "lon": "140.377850"
+  },
+  {
+    "id": "501460",
+    "province": "Papua",
+    "city": "Kab. Mimika",
+    "district": "Timika",
+    "lat": "-4.954139",
+    "lon": "136.812750"
+  },
+  {
+    "id": "501461",
+    "province": "Papua",
+    "city": "Kab. Jayawijaya",
+    "district": "Wamena",
+    "lat": "-4.048940",
+    "lon": "138.829560"
+  },
+  {
+    "id": "501462",
+    "province": "Papua",
+    "city": "Kab. Keerom",
+    "district": "Waris",
+    "lat": "-3.319611",
+    "lon": "140.896917"
+  },
+  {
+    "id": "501611",
+    "province": "Papua",
+    "city": "Kab. Mamberamo Raya",
+    "district": "Burmeso",
+    "lat": "-2.435484",
+    "lon": "138.213501"
+  },
+  {
+    "id": "1200000",
+    "province": "Papua",
+    "city": "Agats",
+    "district": "Pelabuhan Agats",
+    "lat": "-5.562682",
+    "lon": "138.007507"
+  },
+  {
+    "id": "1200015",
+    "province": "Papua",
+    "city": "Biak",
+    "district": "Pelabuhan Biak",
+    "lat": "-1.200169",
+    "lon": "136.094513"
+  },
+  {
+    "id": "1200028",
+    "province": "Papua",
+    "city": "Jayapura",
+    "district": "Pelabuhan Jayapura",
+    "lat": "-2.517805",
+    "lon": "140.800781"
+  },
+  {
+    "id": "1200050",
+    "province": "Papua",
+    "city": "Merauke",
+    "district": "Pelabuhan Merauke",
+    "lat": "-8.562689",
+    "lon": "140.233612"
+  },
+  {
+    "id": "1200055",
+    "province": "Papua",
+    "city": "Nabire",
+    "district": "Pelabuhan Nabire",
+    "lat": "-3.150000",
+    "lon": "135.260000"
+  },
+  {
+    "id": "1200073",
+    "province": "Papua",
+    "city": "Serui",
+    "district": "Pelabuhan Serui",
+    "lat": "-2.064982",
+    "lon": "136.032715"
+  },
+  {
+    "id": "5002259",
+    "province": "Papua",
+    "city": "Kab. Jayapura",
+    "district": "Genyem",
+    "lat": "-2.596005",
+    "lon": "140.167694"
+  },
+  {
+    "id": "5013971",
+    "province": "Papua",
+    "city": "Kab. Deiyai",
+    "district": "Tigi, Deiyai",
+    "lat": "-4.063000",
+    "lon": "136.273000"
+  },
+  {
+    "id": "5013972",
+    "province": "Papua",
+    "city": "Kab. Deiyai",
+    "district": "Kamu",
+    "lat": "-4.011000",
+    "lon": "136.036000"
+  },
+  {
+    "id": "5013984",
+    "province": "Papua",
+    "city": "Kab. Intan Jaya",
+    "district": "Sugapa",
+    "lat": "-3.834000",
+    "lon": "137.045000"
+  },
+  {
+    "id": "5014023",
+    "province": "Papua",
+    "city": "Kab. Keerom",
+    "district": "Arso Timur",
+    "lat": "-2.942000",
+    "lon": "140.896000"
+  },
+  {
+    "id": "5014038",
+    "province": "Papua",
+    "city": "Kab. Kepulauan Yapen",
+    "district": "Yapen Selatan",
+    "lat": "-1.841000",
+    "lon": "136.239000"
+  },
+  {
+    "id": "5014046",
+    "province": "Papua",
+    "city": "Kab. Lanny Jaya",
+    "district": "Tiom",
+    "lat": "-3.914000",
+    "lon": "138.441000"
+  },
+  {
+    "id": "5014049",
+    "province": "Papua",
+    "city": "Kab. Mamberamo Raya",
+    "district": "Mamberamo Ilir",
+    "lat": "-1.888000",
+    "lon": "138.000000"
+  },
+  {
+    "id": "5014055",
+    "province": "Papua",
+    "city": "Kab. Mamberamo Raya",
+    "district": "Kobakma",
+    "lat": "-3.674000",
+    "lon": "139.112000"
+  },
+  {
+    "id": "5014056",
+    "province": "Papua",
+    "city": "Kab. Mamberamo Raya",
+    "district": "Kab. Mamberamo Tengah",
+    "lat": "-3.632000",
+    "lon": "138.957000"
+  },
+  {
+    "id": "5014096",
+    "province": "Papua",
+    "city": "Kab. Mimika",
+    "district": "Mimika Baru",
+    "lat": "-4.574000",
+    "lon": "136.844000"
+  },
+  {
+    "id": "5014117",
+    "province": "Papua",
+    "city": "Kab. Nduga",
+    "district": "Kenyam",
+    "lat": "-4.580000",
+    "lon": "138.408000"
+  },
+  {
+    "id": "5014164",
+    "province": "Papua",
+    "city": "Kab. Pegunungan Bintang",
+    "district": "Ilaga",
+    "lat": "-4.046000",
+    "lon": "137.526000"
+  },
+  {
+    "id": "5014216",
+    "province": "Papua",
+    "city": "Kab. Waropen",
+    "district": "Masirei Waropen Atas",
+    "lat": "-2.507000",
+    "lon": "136.999000"
+  },
+  {
+    "id": "5014272",
+    "province": "Papua",
+    "city": "Kab. Yalimo",
+    "district": "Elelim, Yalimo",
+    "lat": "-3.789000",
+    "lon": "139.425000"
+  },
+  {
+    "id": "5014304",
+    "province": "Papua",
+    "city": "Kab. Jayapura ",
+    "district": "Kab. Jayapura ",
+    "lat": "-2.568013",
+    "lon": "140.511035"
+  },
+  {
+    "id": "5014305",
+    "province": "Papua",
+    "city": "Kab. Supiori ",
+    "district": "Kab. Supiori ",
+    "lat": "-0.716485",
+    "lon": "135.702500"
+  },
+  {
+    "id": "5014306",
+    "province": "Papua",
+    "city": "Kab. Nabire",
+    "district": "Kab. Nabire",
+    "lat": "-3.429021",
+    "lon": "135.279675"
+  },
+  {
+    "id": "5014307",
+    "province": "Papua",
+    "city": "Kab. Kepulauan Yapen ",
+    "district": "Kab. Kepulauan Yapen ",
+    "lat": "-1.881945",
+    "lon": "136.241530"
+  },
+  {
+    "id": "5014308",
+    "province": "Papua",
+    "city": "Kab. Keerom ",
+    "district": "Kab. Keerom ",
+    "lat": "-2.953000",
+    "lon": "140.950000"
+  },
+  {
+    "id": "5014309",
+    "province": "Papua",
+    "city": "Kab. Deiyai",
+    "district": "Kab. Deiyai",
+    "lat": "-4.181000",
+    "lon": "136.126000"
+  },
+  {
+    "id": "5014310",
+    "province": "Papua",
+    "city": "Kab. Dogiyai",
+    "district": "Kab. Dogiyai",
+    "lat": "-4.010145",
+    "lon": "136.036502"
+  },
+  {
+    "id": "5014311",
+    "province": "Papua",
+    "city": "Kab. Lanny Jaya ",
+    "district": "Kab. Lanny Jaya ",
+    "lat": "-3.924500",
+    "lon": "138.452175"
+  },
+  {
+    "id": "5014312",
+    "province": "Papua",
+    "city": "Kab. Puncak ",
+    "district": "Kab. Puncak ",
+    "lat": "-3.976815",
+    "lon": "137.623061"
+  },
+  {
+    "id": "5014313",
+    "province": "Papua",
+    "city": "Kab. Intan Jaya ",
+    "district": "Kab. Intan Jaya ",
+    "lat": "-3.756000",
+    "lon": "137.032030"
+  },
+  {
+    "id": "5014314",
+    "province": "Papua",
+    "city": "Kab. Tolikara ",
+    "district": "Kab. Tolikara ",
+    "lat": "-3.681263",
+    "lon": "138.478369"
+  },
+  {
+    "id": "5014315",
+    "province": "Papua",
+    "city": "Kab. Puncak Jaya ",
+    "district": "Kab. Puncak Jaya ",
+    "lat": "-3.701686",
+    "lon": "137.958728"
+  },
+  {
+    "id": "5014316",
+    "province": "Papua",
+    "city": "Kab. Jayawijaya ",
+    "district": "Kab. Jayawijaya ",
+    "lat": "-4.080142",
+    "lon": "138.904781"
+  },
+  {
+    "id": "5014317",
+    "province": "Papua",
+    "city": "Kab. Yalimo",
+    "district": "Kab. Yalimo",
+    "lat": "-3.773359",
+    "lon": "139.384083"
+  },
+  {
+    "id": "5014318",
+    "province": "Papua",
+    "city": "Kab. Ndunga ",
+    "district": "Kab. Ndunga ",
+    "lat": "-4.498730",
+    "lon": "138.417300"
+  },
+  {
+    "id": "5014319",
+    "province": "Papua",
+    "city": "Yahukimo ",
+    "district": "Yahukimo ",
+    "lat": "-4.854224",
+    "lon": "139.485602"
+  },
+  {
+    "id": "5014320",
+    "province": "Papua",
+    "city": "Kab. Pegunungan Bintang ",
+    "district": "Kab. Pegunungan Bintang ",
+    "lat": "-4.906173",
+    "lon": "140.630467"
+  },
+  {
+    "id": "5014321",
+    "province": "Papua",
+    "city": "Kab. Mimika ",
+    "district": "Kab. Mimika ",
+    "lat": "-4.547262",
+    "lon": "136.889467"
+  },
+  {
+    "id": "5014322",
+    "province": "Papua",
+    "city": "Kab. Asmat",
+    "district": "Kab. Asmat",
+    "lat": "-5.496150",
+    "lon": "138.079890"
+  },
+  {
+    "id": "5014323",
+    "province": "Papua",
+    "city": "Kab. Boven Digoel - Tanah Merah",
+    "district": "Kab. Boven Digoel - Tanah Merah",
+    "lat": "-6.100753",
+    "lon": "140.302760"
+  },
+  {
+    "id": "5014324",
+    "province": "Papua",
+    "city": "Kab. Sarmi",
+    "district": "Kab. Sarmi",
+    "lat": "-1.876585",
+    "lon": "138.753484"
+  },
+  {
+    "id": "5014325",
+    "province": "Papua",
+    "city": "Kab. Merauke",
+    "district": "Kab. Merauke",
+    "lat": "-8.528235",
+    "lon": "140.414130"
+  },
+  {
+    "id": "501463",
+    "province": "PapuaBarat",
+    "city": "Kab. Sorong",
+    "district": "Aimas",
+    "lat": "-1.007690",
+    "lon": "131.320280"
+  },
+  {
+    "id": "501464",
+    "province": "PapuaBarat",
+    "city": "Kab. Teluk Bintuni",
+    "district": "Bintuni",
+    "lat": "-2.116667",
+    "lon": "133.533300"
+  },
+  {
+    "id": "501465",
+    "province": "PapuaBarat",
+    "city": "Kab. Fakfak",
+    "district": "Fakfak",
+    "lat": "-2.916667",
+    "lon": "132.300000"
+  },
+  {
+    "id": "501466",
+    "province": "PapuaBarat",
+    "city": "Kab. Kaimana",
+    "district": "Kaimana",
+    "lat": "-3.650000",
+    "lon": "133.750000"
+  },
+  {
+    "id": "501467",
+    "province": "PapuaBarat",
+    "city": "Kab. Manokwari",
+    "district": "Manokwari",
+    "lat": "-0.900000",
+    "lon": "134.000010"
+  },
+  {
+    "id": "501468",
+    "province": "PapuaBarat",
+    "city": "city Sorong",
+    "district": "Sorong",
+    "lat": "-0.927200",
+    "lon": "131.346250"
+  },
+  {
+    "id": "501469",
+    "province": "PapuaBarat",
+    "city": "Kab. Sorong Selatan",
+    "district": "Teminabuan",
+    "lat": "-1.433333",
+    "lon": "132.016700"
+  },
+  {
+    "id": "501470",
+    "province": "PapuaBarat",
+    "city": "Kab. Raja Ampat",
+    "district": "Waisai",
+    "lat": "-0.280000",
+    "lon": "130.730000"
+  },
+  {
+    "id": "501471",
+    "province": "PapuaBarat",
+    "city": "Kab. Teluk Wondama",
+    "district": "Wasior",
+    "lat": "-2.716667",
+    "lon": "134.500000"
+  },
+  {
+    "id": "1200029",
+    "province": "PapuaBarat",
+    "city": "Kaimana",
+    "district": "Pelabuhan Kaimana",
+    "lat": "-3.684744",
+    "lon": "133.736572"
+  },
+  {
+    "id": "1200046",
+    "province": "PapuaBarat",
+    "city": "Manokwari",
+    "district": "Pelabuhan Manokwari",
+    "lat": "-0.913200",
+    "lon": "134.188385"
+  },
+  {
+    "id": "1200075",
+    "province": "PapuaBarat",
+    "city": "Sorong",
+    "district": "Pelabuhan Sorong",
+    "lat": "-0.785498",
+    "lon": "131.116333"
+  },
+  {
+    "id": "1200093",
+    "province": "PapuaBarat",
+    "city": "Wasior",
+    "district": "Pelabuhan Wasior",
+    "lat": "-2.420392",
+    "lon": "134.382019"
+  },
+  {
+    "id": "1200099",
+    "province": "PapuaBarat",
+    "city": "Kab. Maybrat",
+    "district": "Kumurkek",
+    "lat": "-1.279629",
+    "lon": "132.498035"
+  },
+  {
+    "id": "1200101",
+    "province": "PapuaBarat",
+    "city": "Kab. Manokwari Selatan",
+    "district": "Ransiki",
+    "lat": "-1.514907",
+    "lon": "134.199715"
+  },
+  {
+    "id": "501472",
+    "province": "Riau",
+    "city": "Kab. Rokan Hilir",
+    "district": "Bagan Siapiapi",
+    "lat": "2.200000",
+    "lon": "100.833300"
+  },
+  {
+    "id": "501473",
+    "province": "Riau",
+    "city": "Kab. Kampar",
+    "district": "Bangkinang",
+    "lat": "0.271160",
+    "lon": "101.089470"
+  },
+  {
+    "id": "501474",
+    "province": "Riau",
+    "city": "Kab. Bengkalis",
+    "district": "Bengkalis",
+    "lat": "1.500000",
+    "lon": "102.166700"
+  },
+  {
+    "id": "501475",
+    "province": "Riau",
+    "city": "city Dumai",
+    "district": "Dumai",
+    "lat": "1.583333",
+    "lon": "101.466700"
+  },
+  {
+    "id": "501476",
+    "province": "Riau",
+    "city": "Kab. Pelalawan",
+    "district": "Pangkalan Kerinci",
+    "lat": "0.392778",
+    "lon": "101.857778"
+  },
+  {
+    "id": "501477",
+    "province": "Riau",
+    "city": "Kab. Rokan Hulu",
+    "district": "Pasir Pengarairan",
+    "lat": "0.870000",
+    "lon": "100.350000"
+  },
+  {
+    "id": "501478",
+    "province": "Riau",
+    "city": "city Pekanbaru",
+    "district": "Pekanbaru",
+    "lat": "0.557420",
+    "lon": "101.462180"
+  },
+  {
+    "id": "501479",
+    "province": "Riau",
+    "city": "Kab. Indragiri Hulu",
+    "district": "Rengat",
+    "lat": "-0.520000",
+    "lon": "102.600000"
+  },
+  {
+    "id": "501480",
+    "province": "Riau",
+    "city": "Kab. Siak",
+    "district": "Siak Sri Indrapura",
+    "lat": "0.830000",
+    "lon": "102.030000"
+  },
+  {
+    "id": "501481",
+    "province": "Riau",
+    "city": "Kab. Kuantan Singingi",
+    "district": "Teluk Kuantan",
+    "lat": "-0.491980",
+    "lon": "101.469710"
+  },
+  {
+    "id": "501482",
+    "province": "Riau",
+    "city": "Kab. Indragiri Hilir",
+    "district": "Tembilahan",
+    "lat": "-0.287850",
+    "lon": "103.182690"
+  },
+  {
+    "id": "5002217",
+    "province": "Riau",
+    "city": "Kab. Kepulauan Meranti",
+    "district": "Selat panjang",
+    "lat": "0.966751",
+    "lon": "102.724915"
+  },
+  {
+    "id": "501483",
+    "province": "SulawesiBarat",
+    "city": "Kab. Majene",
+    "district": "Majene",
+    "lat": "-3.520000",
+    "lon": "118.960000"
+  },
+  {
+    "id": "501484",
+    "province": "SulawesiBarat",
+    "city": "Kab. Mamasa",
+    "district": "Mamasa",
+    "lat": "-2.992960",
+    "lon": "119.343580"
+  },
+  {
+    "id": "501485",
+    "province": "SulawesiBarat",
+    "city": "Kab. Mamuju",
+    "district": "Mamuju",
+    "lat": "-2.683333",
+    "lon": "118.833300"
+  },
+  {
+    "id": "501486",
+    "province": "SulawesiBarat",
+    "city": "Kab. Mamuju Utara",
+    "district": "Mamuju Utara",
+    "lat": "-1.341880",
+    "lon": "119.376770"
+  },
+  {
+    "id": "501487",
+    "province": "SulawesiBarat",
+    "city": "Kab. Polewali Mandar",
+    "district": "Polewali Mandar",
+    "lat": "-3.400000",
+    "lon": "119.340000"
+  },
+  {
+    "id": "1200113",
+    "province": "SulawesiBarat",
+    "city": "Kab. Mamuju Tengah",
+    "district": "Mamuju Tengah",
+    "lat": "-2.057434",
+    "lon": "119.270325"
+  },
+  {
+    "id": "501488",
+    "province": "SulawesiSelatan",
+    "city": "Kab. Bantaeng",
+    "district": "Bantaeng",
+    "lat": "-5.533295",
+    "lon": "119.933968"
+  },
+  {
+    "id": "501489",
+    "province": "SulawesiSelatan",
+    "city": "Kab. Barru",
+    "district": "Barru",
+    "lat": "-4.450000",
+    "lon": "119.630000"
+  },
+  {
+    "id": "501490",
+    "province": "SulawesiSelatan",
+    "city": "Kab. Kepulauan Selayar",
+    "district": "Benteng",
+    "lat": "-6.142490",
+    "lon": "120.479200"
+  },
+  {
+    "id": "501491",
+    "province": "SulawesiSelatan",
+    "city": "Kab. Bulukumba",
+    "district": "Bulukumba",
+    "lat": "-5.540000",
+    "lon": "120.180000"
+  },
+  {
+    "id": "501492",
+    "province": "SulawesiSelatan",
+    "city": "Kab. Enrekang",
+    "district": "Enrekang",
+    "lat": "-3.530000",
+    "lon": "119.780000"
+  },
+  {
+    "id": "501493",
+    "province": "SulawesiSelatan",
+    "city": "Kab. Jeneponto",
+    "district": "Jeneponto",
+    "lat": "-5.680000",
+    "lon": "119.730000"
+  },
+  {
+    "id": "501494",
+    "province": "SulawesiSelatan",
+    "city": "Kab. Tana Toraja",
+    "district": "Makale",
+    "lat": "-3.100000",
+    "lon": "119.850000"
+  },
+  {
+    "id": "501495",
+    "province": "SulawesiSelatan",
+    "city": "city Makasar",
+    "district": "Makassar",
+    "lat": "-5.121379",
+    "lon": "119.418983"
+  },
+  {
+    "id": "501496",
+    "province": "SulawesiSelatan",
+    "city": "Kab. Luwu Timur",
+    "district": "Malili",
+    "lat": "-2.597260",
+    "lon": "121.147910"
+  },
+  {
+    "id": "501497",
+    "province": "SulawesiSelatan",
+    "city": "Kab. Maros",
+    "district": "Maros",
+    "lat": "-4.970000",
+    "lon": "119.600000"
+  },
+  {
+    "id": "501498",
+    "province": "SulawesiSelatan",
+    "city": "Kab. Luwu Utara",
+    "district": "Masamba",
+    "lat": "-2.500000",
+    "lon": "120.250000"
+  },
+  {
+    "id": "501499",
+    "province": "SulawesiSelatan",
+    "city": "city Palopo",
+    "district": "Palopo",
+    "lat": "-2.994813",
+    "lon": "120.193520"
+  },
+  {
+    "id": "501501",
+    "province": "SulawesiSelatan",
+    "city": "city Pare Pare",
+    "district": "Pare Pare",
+    "lat": "-4.021809",
+    "lon": "119.641113"
+  },
+  {
+    "id": "501502",
+    "province": "SulawesiSelatan",
+    "city": "Kab. Pinrang",
+    "district": "Pinrang",
+    "lat": "-3.766667",
+    "lon": "119.683300"
+  },
+  {
+    "id": "501503",
+    "province": "SulawesiSelatan",
+    "city": "Kab. Toraja Utara",
+    "district": "Rantepao",
+    "lat": "-2.971156",
+    "lon": "119.899292"
+  },
+  {
+    "id": "501504",
+    "province": "SulawesiSelatan",
+    "city": "Kab. Wajo",
+    "district": "Sengkang",
+    "lat": "-4.133333",
+    "lon": "120.016700"
+  },
+  {
+    "id": "501505",
+    "province": "SulawesiSelatan",
+    "city": "Kab. Sidenreng Rappang",
+    "district": "Sidenreng",
+    "lat": "-3.940000",
+    "lon": "119.810000"
+  },
+  {
+    "id": "501506",
+    "province": "SulawesiSelatan",
+    "city": "Kab. Sinjai",
+    "district": "Sinjai",
+    "lat": "-5.120000",
+    "lon": "120.230000"
+  },
+  {
+    "id": "501507",
+    "province": "SulawesiSelatan",
+    "city": "Kab. Gowa",
+    "district": "Sungguminasa",
+    "lat": "-5.200194",
+    "lon": "119.451513"
+  },
+  {
+    "id": "501508",
+    "province": "SulawesiSelatan",
+    "city": "Kab. Takalar",
+    "district": "Takalar",
+    "lat": "-5.450000",
+    "lon": "119.460000"
+  },
+  {
+    "id": "501509",
+    "province": "SulawesiSelatan",
+    "city": "Kab. Bone",
+    "district": "Watampone",
+    "lat": "-4.520000",
+    "lon": "120.310000"
+  },
+  {
+    "id": "501510",
+    "province": "SulawesiSelatan",
+    "city": "Kab. Soppeng",
+    "district": "Watan Soppeng",
+    "lat": "-4.330000",
+    "lon": "119.830000"
+  },
+  {
+    "id": "1200007",
+    "province": "SulawesiSelatan",
+    "city": "Barru",
+    "district": "Pelabuhan Barru",
+    "lat": "-4.549046",
+    "lon": "119.547729"
+  },
+  {
+    "id": "5007709",
+    "province": "SulawesiSelatan",
+    "city": "Kab. Pangkajene dan Kepulauan",
+    "district": "Pangkajene dan Kepulauan",
+    "lat": "-4.856827",
+    "lon": "119.540909"
+  },
+  {
+    "id": "501520",
+    "province": "SulawesiTengah",
+    "city": "Kab. Tojo Una-Una",
+    "district": "Ampana",
+    "lat": "-0.877630",
+    "lon": "121.604410"
+  },
+  {
+    "id": "501521",
+    "province": "SulawesiTengah",
+    "city": "Kab. Morowali",
+    "district": "Bungku",
+    "lat": "-2.550000",
+    "lon": "121.950000"
+  },
+  {
+    "id": "501522",
+    "province": "SulawesiTengah",
+    "city": "Kab. Buol",
+    "district": "Buol",
+    "lat": "1.003360",
+    "lon": "121.558380"
+  },
+  {
+    "id": "501523",
+    "province": "SulawesiTengah",
+    "city": "Kab. Donggala",
+    "district": "Donggala",
+    "lat": "-0.710000",
+    "lon": "119.740000"
+  },
+  {
+    "id": "501524",
+    "province": "SulawesiTengah",
+    "city": "Kab. Banggai",
+    "district": "Luwuk",
+    "lat": "-1.119880",
+    "lon": "122.620120"
+  },
+  {
+    "id": "501526",
+    "province": "SulawesiTengah",
+    "city": "Kab. Parigi Moutong",
+    "district": "Parigi",
+    "lat": "-0.810000",
+    "lon": "120.120000"
+  },
+  {
+    "id": "501527",
+    "province": "SulawesiTengah",
+    "city": "Kab. Poso",
+    "district": "Poso",
+    "lat": "-1.410000",
+    "lon": "120.760000"
+  },
+  {
+    "id": "501528",
+    "province": "SulawesiTengah",
+    "city": "Kab. Banggai Kepulauan",
+    "district": "Salakan",
+    "lat": "-1.330000",
+    "lon": "123.290000"
+  },
+  {
+    "id": "501529",
+    "province": "SulawesiTengah",
+    "city": "Kab. Toli-Toli",
+    "district": "Toli Toli",
+    "lat": "0.968330",
+    "lon": "120.873700"
+  },
+  {
+    "id": "1200005",
+    "province": "SulawesiTengah",
+    "city": "Banggai",
+    "district": "Banggai",
+    "lat": "-1.594185",
+    "lon": "123.479462"
+  },
+  {
+    "id": "1200035",
+    "province": "SulawesiTengah",
+    "city": "Kolonedale",
+    "district": "Kolonedale",
+    "lat": "-1.988126",
+    "lon": "121.526642"
+  },
+  {
+    "id": "1200044",
+    "province": "SulawesiTengah",
+    "city": "Luwuk",
+    "district": "Luwuk",
+    "lat": "-0.994213",
+    "lon": "122.860107"
+  },
+  {
+    "id": "1200063",
+    "province": "SulawesiTengah",
+    "city": "Poso",
+    "district": "Pelabuhan Poso",
+    "lat": "-1.193304",
+    "lon": "120.737000"
+  },
+  {
+    "id": "1200106",
+    "province": "SulawesiTengah",
+    "city": "city Palu",
+    "district": "Palu",
+    "lat": "-0.904961",
+    "lon": "119.870453"
+  },
+  {
+    "id": "5002257",
+    "province": "SulawesiTengah",
+    "city": "Kab. Sigi Biromaru",
+    "district": "Sigi Biromaru",
+    "lat": "-0.958856",
+    "lon": "119.914398"
+  },
+  {
+    "id": "501511",
+    "province": "SulawesiTenggara",
+    "city": "Kab. Konawe Selatan",
+    "district": "Konawe Selatan",
+    "lat": "-4.242410",
+    "lon": "122.397730"
+  },
+  {
+    "id": "501512",
+    "province": "SulawesiTenggara",
+    "city": "city Bau - Bau",
+    "district": "Bau Bau",
+    "lat": "-5.470000",
+    "lon": "122.610000"
+  },
+  {
+    "id": "501513",
+    "province": "SulawesiTenggara",
+    "city": "city Kendari",
+    "district": "city Kendari",
+    "lat": "-4.003500",
+    "lon": "122.552540"
+  },
+  {
+    "id": "501514",
+    "province": "SulawesiTenggara",
+    "city": "Kab. Kolaka",
+    "district": "Kolaka",
+    "lat": "-4.050000",
+    "lon": "121.670000"
+  },
+  {
+    "id": "501515",
+    "province": "SulawesiTenggara",
+    "city": "Kab. Kolaka Utara",
+    "district": "Kolaka Utara",
+    "lat": "-3.470000",
+    "lon": "120.880000"
+  },
+  {
+    "id": "501516",
+    "province": "SulawesiTenggara",
+    "city": "Kab. Buton",
+    "district": "Buton",
+    "lat": "-5.530000",
+    "lon": "122.840000"
+  },
+  {
+    "id": "501517",
+    "province": "SulawesiTenggara",
+    "city": "Kab. Muna",
+    "district": "Raha",
+    "lat": "-4.798270",
+    "lon": "122.695080"
+  },
+  {
+    "id": "501518",
+    "province": "SulawesiTenggara",
+    "city": "Kab. Bombana",
+    "district": "Bombana",
+    "lat": "-4.627200",
+    "lon": "121.812520"
+  },
+  {
+    "id": "501519",
+    "province": "SulawesiTenggara",
+    "city": "Kab. Wakatobi",
+    "district": "Wangi Wangi",
+    "lat": "-5.320000",
+    "lon": "123.550000"
+  },
+  {
+    "id": "501612",
+    "province": "SulawesiTenggara",
+    "city": "Kab. Buton Utara",
+    "district": "Buranga",
+    "lat": "-4.815944",
+    "lon": "122.994690"
+  },
+  {
+    "id": "501613",
+    "province": "SulawesiTenggara",
+    "city": "Kab. Konawe",
+    "district": "Konawe",
+    "lat": "-3.851670",
+    "lon": "122.050280"
+  },
+  {
+    "id": "501614",
+    "province": "SulawesiTenggara",
+    "city": "Kab. Konawe Utara",
+    "district": "Wanggudu",
+    "lat": "-3.433330",
+    "lon": "122.116670"
+  },
+  {
+    "id": "1200032",
+    "province": "SulawesiTenggara",
+    "city": "Kendari",
+    "district": "Pelabuhan Kendari",
+    "lat": "-3.979341",
+    "lon": "122.645874"
+  },
+  {
+    "id": "1200064",
+    "province": "SulawesiTenggara",
+    "city": "Raha",
+    "district": "Pelabuhan Raha",
+    "lat": "-4.784469",
+    "lon": "122.777710"
+  },
+  {
+    "id": "501530",
+    "province": "SulawesiUtara",
+    "city": "Kab. Minahasa Utara",
+    "district": "Air Madidi",
+    "lat": "1.418465",
+    "lon": "124.981842"
+  },
+  {
+    "id": "501531",
+    "province": "SulawesiUtara",
+    "city": "Kab. Minahasa Selatan",
+    "district": "Amurang",
+    "lat": "1.160000",
+    "lon": "124.590000"
+  },
+  {
+    "id": "501532",
+    "province": "SulawesiUtara",
+    "city": "city Bitung",
+    "district": "Bitung",
+    "lat": "1.477720",
+    "lon": "125.157220"
+  },
+  {
+    "id": "501533",
+    "province": "SulawesiUtara",
+    "city": "Kab. Bolaang Mongondow",
+    "district": "Lolak",
+    "lat": "0.860000",
+    "lon": "124.030000"
+  },
+  {
+    "id": "501534",
+    "province": "SulawesiUtara",
+    "city": "city Manado",
+    "district": "Manado",
+    "lat": "1.502130",
+    "lon": "124.852360"
+  },
+  {
+    "id": "501535",
+    "province": "SulawesiUtara",
+    "city": "Kab. Talaud",
+    "district": "Melongguane",
+    "lat": "4.040000",
+    "lon": "126.680000"
+  },
+  {
+    "id": "501536",
+    "province": "SulawesiUtara",
+    "city": "Kab. Sangihe",
+    "district": "Tahuna",
+    "lat": "3.583333",
+    "lon": "125.500000"
+  },
+  {
+    "id": "501538",
+    "province": "SulawesiUtara",
+    "city": "Kab. Minahasa",
+    "district": "Tondano",
+    "lat": "1.301768",
+    "lon": "124.910088"
+  },
+  {
+    "id": "501615",
+    "province": "SulawesiUtara",
+    "city": "city citymobagu",
+    "district": "citymobagu",
+    "lat": "0.725078",
+    "lon": "124.315796"
+  },
+  {
+    "id": "501616",
+    "province": "SulawesiUtara",
+    "city": "Kab. Sitaro",
+    "district": "Ondong Siau",
+    "lat": "2.744720",
+    "lon": "125.365000"
+  },
+  {
+    "id": "501617",
+    "province": "SulawesiUtara",
+    "city": "Kab. Minahasa Tenggara",
+    "district": "Ratahan",
+    "lat": "1.063330",
+    "lon": "124.807500"
+  },
+  {
+    "id": "1200077",
+    "province": "SulawesiUtara",
+    "city": "Tahuna",
+    "district": "Pelabuhan Tahuna",
+    "lat": "3.570989",
+    "lon": "125.408936"
+  },
+  {
+    "id": "1200110",
+    "province": "SulawesiUtara",
+    "city": "Kab. Bolaang Mongondow",
+    "district": "Boroko",
+    "lat": "0.818110",
+    "lon": "123.769226"
+  },
+  {
+    "id": "1200111",
+    "province": "SulawesiUtara",
+    "city": "city Tomohon",
+    "district": "Tomohon",
+    "lat": "1.324421",
+    "lon": "124.840393"
+  },
+  {
+    "id": "501539",
+    "province": "SumateraBarat",
+    "city": "Kab. Solok",
+    "district": "Arosuka",
+    "lat": "-0.933580",
+    "lon": "100.829610"
+  },
+  {
+    "id": "501540",
+    "province": "SumateraBarat",
+    "city": "Kab. Tanah Datar",
+    "district": "Batusangkar",
+    "lat": "-0.470030",
+    "lon": "100.582310"
+  },
+  {
+    "id": "501541",
+    "province": "SumateraBarat",
+    "city": "city Bukittinggi",
+    "district": "Bukittinggi",
+    "lat": "-0.310000",
+    "lon": "100.350000"
+  },
+  {
+    "id": "501542",
+    "province": "SumateraBarat",
+    "city": "Kab. Agam",
+    "district": "Lubuk Basung",
+    "lat": "-0.266130",
+    "lon": "100.150260"
+  },
+  {
+    "id": "501543",
+    "province": "SumateraBarat",
+    "city": "Kab. Pasaman",
+    "district": "Lubuk Sikaping",
+    "lat": "0.166168",
+    "lon": "100.152740"
+  },
+  {
+    "id": "501544",
+    "province": "SumateraBarat",
+    "city": "Kab. Sijunjung",
+    "district": "Muaro Sijunjung",
+    "lat": "-0.700000",
+    "lon": "101.200000"
+  },
+  {
+    "id": "501545",
+    "province": "SumateraBarat",
+    "city": "city Padang",
+    "district": "Padang",
+    "lat": "-0.880000",
+    "lon": "100.400000"
+  },
+  {
+    "id": "501546",
+    "province": "SumateraBarat",
+    "city": "Kab. Solok Selatan",
+    "district": "Padang Aro",
+    "lat": "-1.358930",
+    "lon": "101.275560"
+  },
+  {
+    "id": "501547",
+    "province": "SumateraBarat",
+    "city": "city Padangpanjang",
+    "district": "Padangpanjang",
+    "lat": "-0.470000",
+    "lon": "100.380000"
+  },
+  {
+    "id": "501548",
+    "province": "SumateraBarat",
+    "city": "Kab. Pesisir Selatan",
+    "district": "Painan",
+    "lat": "-1.346045",
+    "lon": "100.582237"
+  },
+  {
+    "id": "501549",
+    "province": "SumateraBarat",
+    "city": "city Pariaman",
+    "district": "Pariaman",
+    "lat": "-0.626200",
+    "lon": "100.145290"
+  },
+  {
+    "id": "501550",
+    "province": "SumateraBarat",
+    "city": "Kab. Padang Pariaman",
+    "district": "Parit Malintang",
+    "lat": "-0.592750",
+    "lon": "100.256860"
+  },
+  {
+    "id": "501551",
+    "province": "SumateraBarat",
+    "city": "city Payakumbuh",
+    "district": "Payakumbuh",
+    "lat": "-0.239510",
+    "lon": "100.641050"
+  },
+  {
+    "id": "501552",
+    "province": "SumateraBarat",
+    "city": "Kab. Dharmasraya",
+    "district": "Pulau Punjung",
+    "lat": "-0.950000",
+    "lon": "101.410000"
+  },
+  {
+    "id": "501553",
+    "province": "SumateraBarat",
+    "city": "Kab. Limapuluh city",
+    "district": "Sarilamak",
+    "lat": "-0.156667",
+    "lon": "100.661700"
+  },
+  {
+    "id": "501554",
+    "province": "SumateraBarat",
+    "city": "city Sawahlunto",
+    "district": "Sawahlunto",
+    "lat": "-0.682509",
+    "lon": "100.796814"
+  },
+  {
+    "id": "501555",
+    "province": "SumateraBarat",
+    "city": "Kab. Pasaman Barat",
+    "district": "Simpang Empat",
+    "lat": "0.162048",
+    "lon": "99.838257"
+  },
+  {
+    "id": "501556",
+    "province": "SumateraBarat",
+    "city": "city Solok",
+    "district": "Solok",
+    "lat": "-0.780000",
+    "lon": "100.620000"
+  },
+  {
+    "id": "501557",
+    "province": "SumateraBarat",
+    "city": "Kab. Kepulauan Mentawai",
+    "district": "Tuapejat",
+    "lat": "-2.100000",
+    "lon": "99.670000"
+  },
+  {
+    "id": "501558",
+    "province": "SumateraSelatan",
+    "city": "Kab. Ogan Komering Ulu",
+    "district": "Baturaja",
+    "lat": "-4.113588",
+    "lon": "104.158630"
+  },
+  {
+    "id": "501559",
+    "province": "SumateraSelatan",
+    "city": "Kab. Ogan Ilir",
+    "district": "Indralaya",
+    "lat": "-3.241982",
+    "lon": "104.666748"
+  },
+  {
+    "id": "501561",
+    "province": "SumateraSelatan",
+    "city": "Kab. Lahat",
+    "district": "Lahat",
+    "lat": "-3.750000",
+    "lon": "103.500000"
+  },
+  {
+    "id": "501562",
+    "province": "SumateraSelatan",
+    "city": "city Lubuk Linggau",
+    "district": "Lubuk Linggau",
+    "lat": "-3.354405",
+    "lon": "102.628784"
+  },
+  {
+    "id": "501564",
+    "province": "SumateraSelatan",
+    "city": "Kab. Muaraenim",
+    "district": "Muara Enim",
+    "lat": "-3.650482",
+    "lon": "103.782349"
+  },
+  {
+    "id": "501565",
+    "province": "SumateraSelatan",
+    "city": "Kab. Ogan Komering Ulu Selatan",
+    "district": "Muaradua",
+    "lat": "-4.535356",
+    "lon": "104.078979"
+  },
+  {
+    "id": "501566",
+    "province": "SumateraSelatan",
+    "city": "Kab. Musi Rawas",
+    "district": "Musirawas",
+    "lat": "-2.958530",
+    "lon": "102.860520"
+  },
+  {
+    "id": "501567",
+    "province": "SumateraSelatan",
+    "city": "city Pagar Alam",
+    "district": "Pagar Alam",
+    "lat": "-3.921800",
+    "lon": "103.590088"
+  },
+  {
+    "id": "501568",
+    "province": "SumateraSelatan",
+    "city": "city Palembang",
+    "district": "Palembang",
+    "lat": "-2.978699",
+    "lon": "104.751892"
+  },
+  {
+    "id": "501569",
+    "province": "SumateraSelatan",
+    "city": "Kab. Banyuasin",
+    "district": "Pangkalan Balai",
+    "lat": "-2.888306",
+    "lon": "104.395000"
+  },
+  {
+    "id": "501570",
+    "province": "SumateraSelatan",
+    "city": "city Prabumulih",
+    "district": "Prabumulih",
+    "lat": "-3.450000",
+    "lon": "104.250000"
+  },
+  {
+    "id": "501571",
+    "province": "SumateraSelatan",
+    "city": "Kab. Musi Banyuasin",
+    "district": "Sekayu",
+    "lat": "-2.850000",
+    "lon": "103.850000"
+  },
+  {
+    "id": "501618",
+    "province": "SumateraSelatan",
+    "city": "Kab. Empat Lawang",
+    "district": "Tebing Tinggi",
+    "lat": "-3.603883",
+    "lon": "102.958374"
+  },
+  {
+    "id": "5002230",
+    "province": "SumateraSelatan",
+    "city": "Kab. Ogan Komering Ilir",
+    "district": "Kayu Agung",
+    "lat": "-3.373598",
+    "lon": "104.823303"
+  },
+  {
+    "id": "5002231",
+    "province": "SumateraSelatan",
+    "city": "Kab. Ogan Komering Ulu Timur",
+    "district": "Martapura",
+    "lat": "-4.261507",
+    "lon": "104.398270"
+  },
+  {
+    "id": "5002250",
+    "province": "SumateraSelatan",
+    "city": "Kab. Penukal Abab Lematang Ilir",
+    "district": "Talang Ubi",
+    "lat": "-3.259806",
+    "lon": "103.834534"
+  },
+  {
+    "id": "5002251",
+    "province": "SumateraSelatan",
+    "city": "Kab. Musi Rawas Utara",
+    "district": "Muara Rumpit",
+    "lat": "-2.714667",
+    "lon": "102.900696"
+  },
+  {
+    "id": "501572",
+    "province": "SumateraUtara",
+    "city": "city Tebing Tinggi",
+    "district": "Tebing Tinggi",
+    "lat": "3.329440",
+    "lon": "99.138890"
+  },
+  {
+    "id": "501573",
+    "province": "SumateraUtara",
+    "city": "Kab. Toba Samosir",
+    "district": "Balige",
+    "lat": "2.380320",
+    "lon": "99.246470"
+  },
+  {
+    "id": "501574",
+    "province": "SumateraUtara",
+    "city": "city Binjai",
+    "district": "Binjai city",
+    "lat": "3.619040",
+    "lon": "98.484600"
+  },
+  {
+    "id": "501575",
+    "province": "SumateraUtara",
+    "city": "Kab. Humbang Hasundutan",
+    "district": "Dolok Sanggul",
+    "lat": "2.230620",
+    "lon": "98.573360"
+  },
+  {
+    "id": "501576",
+    "province": "SumateraUtara",
+    "city": "Kab. Nias",
+    "district": "Gunung Sitoli",
+    "lat": "1.211152",
+    "lon": "97.602539"
+  },
+  {
+    "id": "501577",
+    "province": "SumateraUtara",
+    "city": "Kab. Karo",
+    "district": "Kabanjahe",
+    "lat": "3.100000",
+    "lon": "98.500000"
+  },
+  {
+    "id": "501578",
+    "province": "SumateraUtara",
+    "city": "Kab. Asahan",
+    "district": "Kisaran",
+    "lat": "2.972870",
+    "lon": "99.628143"
+  },
+  {
+    "id": "501579",
+    "province": "SumateraUtara",
+    "city": "Kab. Deli Serdang",
+    "district": "Lubuk Pakam",
+    "lat": "3.570000",
+    "lon": "98.850000"
+  },
+  {
+    "id": "501580",
+    "province": "SumateraUtara",
+    "city": "city Medan",
+    "district": "Medan",
+    "lat": "3.666810",
+    "lon": "98.671230"
+  },
+  {
+    "id": "501581",
+    "province": "SumateraUtara",
+    "city": "city Padang Sidempuan",
+    "district": "Padang Sidempuan",
+    "lat": "1.500000",
+    "lon": "99.250000"
+  },
+  {
+    "id": "501582",
+    "province": "SumateraUtara",
+    "city": "Kab. Tapanuli Tengah",
+    "district": "Pandan",
+    "lat": "1.690000",
+    "lon": "98.830000"
+  },
+  {
+    "id": "501583",
+    "province": "SumateraUtara",
+    "city": "Kab. Samosir",
+    "district": "Pangururan",
+    "lat": "2.508940",
+    "lon": "98.626380"
+  },
+  {
+    "id": "501584",
+    "province": "SumateraUtara",
+    "city": "Kab. Mandailing Natal",
+    "district": "Panyabungan",
+    "lat": "0.716280",
+    "lon": "99.418300"
+  },
+  {
+    "id": "501585",
+    "province": "SumateraUtara",
+    "city": "Kab. Simalungun",
+    "district": "Pematang Raya",
+    "lat": "2.966389",
+    "lon": "98.845833"
+  },
+  {
+    "id": "501586",
+    "province": "SumateraUtara",
+    "city": "city Pematang Siantar",
+    "district": "Pematang Siantar",
+    "lat": "2.967600",
+    "lon": "99.051450"
+  },
+  {
+    "id": "501587",
+    "province": "SumateraUtara",
+    "city": "Kab. Labuhanbatu",
+    "district": "Rantau Prapat",
+    "lat": "2.250000",
+    "lon": "99.833300"
+  },
+  {
+    "id": "501588",
+    "province": "SumateraUtara",
+    "city": "Kab. Pak-Pak Bharat",
+    "district": "Salak",
+    "lat": "2.554780",
+    "lon": "98.276230"
+  },
+  {
+    "id": "501589",
+    "province": "SumateraUtara",
+    "city": "Kab. Serdang Bedagai",
+    "district": "Sei Rampah",
+    "lat": "3.500000",
+    "lon": "99.130000"
+  },
+  {
+    "id": "501590",
+    "province": "SumateraUtara",
+    "city": "city Sibolga",
+    "district": "Sibolga",
+    "lat": "1.797343",
+    "lon": "98.767090"
+  },
+  {
+    "id": "501591",
+    "province": "SumateraUtara",
+    "city": "Kab. Dairi",
+    "district": "Sidikalang",
+    "lat": "2.827120",
+    "lon": "98.278320"
+  },
+  {
+    "id": "501592",
+    "province": "SumateraUtara",
+    "city": "Kab. Tapanuli Selatan",
+    "district": "Sipirok",
+    "lat": "1.603028",
+    "lon": "99.268167"
+  },
+  {
+    "id": "501593",
+    "province": "SumateraUtara",
+    "city": "Kab. Langkat",
+    "district": "Stabat",
+    "lat": "3.760000",
+    "lon": "98.410000"
+  },
+  {
+    "id": "501594",
+    "province": "SumateraUtara",
+    "city": "city Tanjung Balai",
+    "district": "Tanjung Balai",
+    "lat": "2.941640",
+    "lon": "99.778440"
+  },
+  {
+    "id": "501595",
+    "province": "SumateraUtara",
+    "city": "Kab. Tapanuli Utara",
+    "district": "Tarutung",
+    "lat": "2.000010",
+    "lon": "98.900000"
+  },
+  {
+    "id": "501596",
+    "province": "SumateraUtara",
+    "city": "Kab. Nias Selatan",
+    "district": "Teluk Dalam",
+    "lat": "0.590000",
+    "lon": "97.780000"
+  },
+  {
+    "id": "5002210",
+    "province": "SumateraUtara",
+    "city": "Kab. Batubara",
+    "district": "Lima Puluh",
+    "lat": "3.172739",
+    "lon": "99.419403"
+  },
+  {
+    "id": "5002211",
+    "province": "SumateraUtara",
+    "city": "Kab. Labuhanbatu Selatan",
+    "district": "city Pinang",
+    "lat": "2.048514",
+    "lon": "99.997559"
+  },
+  {
+    "id": "5002212",
+    "province": "SumateraUtara",
+    "city": "Kab. Labuhanbatu Utara",
+    "district": "Aek Kanopan",
+    "lat": "2.703007",
+    "lon": "99.621277"
+  },
+  {
+    "id": "5002213",
+    "province": "SumateraUtara",
+    "city": "Kab. Padanglawas",
+    "district": "Sibuhuan",
+    "lat": "1.476125",
+    "lon": "99.075394"
+  },
+  {
+    "id": "5002214",
+    "province": "SumateraUtara",
+    "city": "Kab. Tapanuli Selatan",
+    "district": "Gunung Tua",
+    "lat": "1.506327",
+    "lon": "99.624710"
+  },
+  {
+    "id": "5002215",
+    "province": "SumateraUtara",
+    "city": "Kab. Nias Utara",
+    "district": "Lotu",
+    "lat": "1.433909",
+    "lon": "97.355690"
+  },
+  {
+    "id": "5002216",
+    "province": "SumateraUtara",
+    "city": "Kab. Nias Barat",
+    "district": "Lahomi",
+    "lat": "1.006571",
+    "lon": "97.463837"
+  }
+]

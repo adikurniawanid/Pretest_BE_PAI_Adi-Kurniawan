@@ -1,42 +1,35 @@
 "use strict";
 module.exports = {
   async up(queryInterface, Sequelize) {
-    await queryInterface.createTable("Users", {
+    await queryInterface.createTable("Locations", {
       id: {
         allowNull: false,
-        autoIncrement: true,
         primaryKey: true,
         type: Sequelize.INTEGER,
       },
-      publicId: {
-        allowNull: false,
+      province: {
         type: Sequelize.STRING,
-        unique: true,
-      },
-      name: {
         allowNull: false,
+      },
+      city: {
         type: Sequelize.STRING,
-      },
-      email: {
         allowNull: false,
+      },
+      district: {
         type: Sequelize.STRING,
-        unique: true,
-      },
-      password: {
         allowNull: false,
-        type: Sequelize.STRING,
       },
-      createdAt: {
+      lat: {
+        type: Sequelize.DOUBLE,
         allowNull: false,
-        type: Sequelize.DATE,
       },
-      updatedAt: {
+      lon: {
+        type: Sequelize.DOUBLE,
         allowNull: false,
-        type: Sequelize.DATE,
       },
     });
   },
   async down(queryInterface, Sequelize) {
-    await queryInterface.dropTable("Users");
+    await queryInterface.dropTable("Locations");
   },
 };

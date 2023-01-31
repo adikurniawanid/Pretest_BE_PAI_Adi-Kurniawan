@@ -5,7 +5,7 @@ const cookieParser = require("cookie-parser");
 const logger = require("morgan");
 const cors = require("cors");
 
-const { AuthRouters } = require("./api/v1/routes");
+const { AuthRouters, FarmRouters } = require("./api/v1/routes");
 const { errorHandler } = require("./api/v1/middlewares");
 
 const app = express();
@@ -20,6 +20,7 @@ app.use(cors());
 const API_VERSION = "v1";
 
 app.use(`/${API_VERSION}/auth`, AuthRouters);
+app.use(`/${API_VERSION}/farm`, FarmRouters);
 app.use(errorHandler);
 
 module.exports = app;

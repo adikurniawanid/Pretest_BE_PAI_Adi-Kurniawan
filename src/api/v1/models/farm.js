@@ -18,6 +18,11 @@ module.exports = (sequelize, DataTypes) => {
   }
   Farm.init(
     {
+      publicId: {
+        type: DataTypes.STRING,
+        allowNull: false,
+        unique: true,
+      },
       plant: DataTypes.STRING,
       amount: DataTypes.INTEGER,
       locationId: DataTypes.INTEGER,

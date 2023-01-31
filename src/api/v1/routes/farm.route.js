@@ -9,6 +9,8 @@ const {
 } = require("../validations/farm.validation");
 const { validation } = require("../middlewares");
 
+router.get("/:publicId", authorization, FarmController.get);
+router.get("/", authorization, FarmController.list);
 router.post(
   "/",
   authorization,
@@ -16,15 +18,13 @@ router.post(
   validation,
   FarmController.create
 );
-
 router.put(
-  "/:id",
+  "/:publicId",
   authorization,
   updateFarmValidationRules(),
   validation,
   FarmController.update
 );
-
-router.delete("/:id", authorization, FarmController.delete);
+router.delete("/:publicId", authorization, FarmController.delete);
 
 module.exports = router;

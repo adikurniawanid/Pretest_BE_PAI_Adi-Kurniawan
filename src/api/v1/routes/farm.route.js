@@ -25,4 +25,6 @@ router.put(
   FarmController.update
 );
 
+router.delete("/:id", authorization, FarmController.delete);
+
 module.exports = router;

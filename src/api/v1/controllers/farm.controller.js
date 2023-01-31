@@ -53,4 +53,32 @@ module.exports = class FarmController {
       next(error);
     }
   }
+
+  static async delete(req, res, next) {
+    try {
+      const { id } = req.params;
+
+      const farm = await Farm.findOne({
+        where: {
+          id,
+          userId: req.user.id,
+        },
+      });
+
+      if (!farm) {
+        throw {
+          status: 404,
+          message: "Farm Not Found",
+        };
+      }
+
+      await Farm.destroy({ where: { id, userId: req.user.id } });
+
+      res.status(200).json({
+        message: "Farm deleted successfully",
+      });
+    } catch (error) {
+      next(error);
+    }
+  }
 };

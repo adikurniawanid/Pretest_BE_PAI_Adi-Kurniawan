@@ -72,7 +72,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd express-secondhand-api
+  cd Pretest_BE_PAI_Adi-Kurniawan
 ```
 
 Install dependencies
@@ -107,7 +107,7 @@ Start the server
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
+To run this project, you will need to add the following environment variables to your .env file, check `env.example`
 
 `PORT`
 

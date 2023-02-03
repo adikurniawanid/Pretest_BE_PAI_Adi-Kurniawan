@@ -1,9 +1,11 @@
 ## Pretest_BE_PAI_Adi-Kurniawan
 
 ## Documentation
+
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/13454122/2s935iumZM)
 
 ## Entity Relationship Diagram
+
 ```mermaid
 erDiagram
     Conditions {
@@ -35,7 +37,7 @@ erDiagram
     SequelizeMeta {
         varchar name
     }
-    
+
     UserTokens {
         varchar refreshToken
         varchar forgotPasswordToken
@@ -129,9 +131,17 @@ To run this project, you will need to add the following environment variables to
 `JWT_REFRESH_EXPIRATION`
 
 ## Public API
+
 [BMKG](https://data.bmkg.go.id/)
 [BMKG-IMPORTER](https://ibnux.github.io/BMKG-importer/#pakai-langsung)
 
+## Preview
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/13454122/2s935iumZM)
+
+| {{API_URL}}/v1/farm/:publicId                      | {{API_URL}}/v1/farm                                  | {{API_URL}}/v1/auth/register                            |
+| -------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- |
+| ![endpoint get farm](public/previewImages/get.jpg) | ![endpoint list farm](public/previewImages/list.jpg) | ![endpoint register](public/previewImages/register.jpg) |
 
 ## Tech Stack
 
